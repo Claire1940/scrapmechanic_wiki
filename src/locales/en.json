@@ -10,7 +10,16 @@
       "twitterDescription": "Explore Scrap Mechanic survival guides, vehicle builds, crafting recipes, Farmbot tips, mods, and the latest 1.0 Drilling Thunder update."
     }
   },
-  "nav": {},
+  "nav": {
+    "guides": "Guides",
+    "survival": "Survival",
+    "builds": "Builds",
+    "crafting": "Crafting",
+    "farming": "Farming",
+    "enemies": "Enemies",
+    "mods": "Mods",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -885,6 +894,46 @@
       },
       "featured": "Featured & Essential",
       "all": "All Update Articles"
+    },
+    "guides": {
+      "title": "Scrap Mechanic Guides",
+      "description": "Beginner guides covering controls, tools, keyboard shortcuts, console commands, and common mistakes across all game modes.",
+      "metaTitle": "Scrap Mechanic Guides - Controls, Tools, and Console Commands",
+      "metaDescription": "Learn Scrap Mechanic basics with guides on controls, tools, keyboard shortcuts, and console commands for Survival, Creative, and Challenge mode.",
+      "categoryLabel": "BEGINNER GUIDES",
+      "whatIs": "What are Guides?",
+      "whatIsDescription": "Guides cover the universal basics every mechanic needs: movement and controls, tool functions, keyboard shortcuts, and console commands that work across Survival, Creative, and Challenge mode.",
+      "why": "Why start with guides?",
+      "whySteps": {
+        "step1Title": "Master the Controls",
+        "step1Description": "Learn movement, the lift, the spraycan, and the welding tool",
+        "step2Title": "Learn the Shortcuts",
+        "step2Description": "Use keyboard shortcuts to build, rotate, and paint faster",
+        "step3Title": "Use Console Commands",
+        "step3Description": "Spawn items and adjust settings with creative commands"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Guides"
+    },
+    "farming": {
+      "title": "Scrap Mechanic Farming",
+      "description": "Farming guides covering crops, watering, raid levels, packing stations, and trading with the Trader.",
+      "metaTitle": "Scrap Mechanic Farming - Crops, Raids, and Trading",
+      "metaDescription": "Master Scrap Mechanic farming with guides on crops, watering, automated irrigation, raid levels, crop defense, and trading for crates.",
+      "categoryLabel": "FARMING & RAIDS",
+      "whatIs": "What is Farming?",
+      "whatIsDescription": "Farming is the Survival mode economy where you till soil, plant seeds, water crops, harvest produce, and trade with the Trader, while defending your fields from escalating bot raids.",
+      "why": "Why farm?",
+      "whySteps": {
+        "step1Title": "Plant and Water",
+        "step1Description": "Till soil, place seeds, and set up manual or automated watering",
+        "step2Title": "Survive the Raids",
+        "step2Description": "Understand raid triggers, enemy waves, and crop defense tactics",
+        "step3Title": "Trade for Crates",
+        "step3Description": "Pack and sell harvests at the Packing Station for valuable crates"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Farming Guides"
     }
   }
 }
