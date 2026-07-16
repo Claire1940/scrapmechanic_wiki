@@ -1,1 +1,1044 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Wiki Scrap Mechanic - Survie, constructions, recettes et mods",
+      "description": "Explorez les guides de survie Scrap Mechanic, les constructions de véhicules, les recettes de fabrication, les astuces Farmbot, les cartes, les mods et les dernières actualités de la mise à jour 1.0 Drilling Thunder.",
+      "keywords": "Scrap Mechanic, survie, constructions, recettes de fabrication, Farmbots, mods, Chapitre 2, Drilling Thunder",
+      "ogTitle": "Wiki Scrap Mechanic - Survie, constructions, recettes et mods",
+      "ogDescription": "Explorez les guides de survie Scrap Mechanic, les constructions de véhicules, les recettes de fabrication, les astuces Farmbot, les cartes, les mods et les dernières actualités de la mise à jour 1.0 Drilling Thunder.",
+      "twitterTitle": "Wiki Scrap Mechanic - Survie, constructions, recettes et mods",
+      "twitterDescription": "Explorez les guides de survie Scrap Mechanic, les constructions de véhicules, les recettes de fabrication, les astuces Farmbot, les mods et la dernière mise à jour 1.0 Drilling Thunder."
+    }
+  },
+  "nav": {
+    "guides": "Guides",
+    "survival": "Survie",
+    "builds": "Constructions",
+    "crafting": "Fabrication",
+    "farming": "Agriculture",
+    "enemies": "Ennemis",
+    "mods": "Mods",
+    "updates": "Mises à jour"
+  },
+  "common": {
+    "home": "Accueil",
+    "more": "Plus",
+    "playNow": "Jouer sur Steam",
+    "switchLanguage": "Changer de langue",
+    "switchTheme": "Changer de thème",
+    "lightMode": "Mode clair",
+    "darkMode": "Mode sombre",
+    "notFound": "Page non trouvée",
+    "notFoundDescription": "La page que vous recherchez n'existe pas.",
+    "backToHome": "Retour à l'accueil",
+    "relatedArticles": "Articles similaires",
+    "readMore": "Lire la suite",
+    "articlesComingSoon": "Articles à venir prochainement"
+  },
+  "hero": {
+    "badge": "Sandbox de survie basée sur la physique",
+    "title": "Wiki Scrap Mechanic",
+    "description": "Construisez des véhicules et des machines, explorez une planète agricole hostile, fabriquez des ressources, défendez-vous contre les Farmbots et découvrez tout ce qui arrive dans la mise à jour 1.0 Drilling Thunder.",
+    "getFreeCodesCTA": "Voir la mise à jour 1.0",
+    "playOnSteamCTA": "Jouer sur Steam",
+    "stats": {
+      "stat1": {
+        "value": "24 juil. 2026",
+        "label": "Sortie de la 1.0"
+      },
+      "stat2": {
+        "value": "91 %",
+        "label": "Évaluations récentes positives"
+      },
+      "stat3": {
+        "value": "400+",
+        "label": "Pièces de construction"
+      },
+      "stat4": {
+        "value": "3",
+        "label": "Modes de jeu"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay de Scrap Mechanic",
+    "description": "Construisez des véhicules et des machines basés sur la physique, survivez sur une planète agricole hostile, fabriquez des ressources, défendez-vous contre les Farmbots et maîtrisez les modes Survie, Créatif et Défi."
+  },
+  "tools": {
+    "title": "Scrap Mechanic",
+    "titleHighlight": "Ressources",
+    "subtitle": "Tout ce dont vous avez besoin pour survivre, construire, fabriquer, cultiver, combattre et moder Scrap Mechanic",
+    "cards": [
+      {
+        "icon": "Rocket",
+        "title": "Mise à jour 1.0 de Scrap Mechanic",
+        "description": "Date de sortie, nouveaux bots, modifications des raids et améliorations graphiques"
+      },
+      {
+        "icon": "Compass",
+        "title": "Guide du débutant pour Scrap Mechanic",
+        "description": "Premiers pas, de la Master Battery à votre premier véhicule"
+      },
+      {
+        "icon": "Map",
+        "title": "Carte de survie de Scrap Mechanic",
+        "description": "Stations, le Marchand, entrepôts, ruines et biomes"
+      },
+      {
+        "icon": "FlaskConical",
+        "title": "Recettes de fabrication de Scrap Mechanic",
+        "description": "Craftbots, matériaux et priorités des kits de composants"
+      },
+      {
+        "icon": "Car",
+        "title": "Véhicules de Scrap Mechanic",
+        "description": "Voitures stables, moissonneuses, bateaux et machines logiques"
+      },
+      {
+        "icon": "Sprout",
+        "title": "Farming dans Scrap Mechanic",
+        "description": "Cultures, arrosage, déclencheurs de raid et défense de base"
+      },
+      {
+        "icon": "Swords",
+        "title": "Bots de Scrap Mechanic",
+        "description": "Attaques, butins et contres les plus sûrs pour chaque bot"
+      },
+      {
+        "icon": "Puzzle",
+        "title": "Mods de Scrap Mechanic",
+        "description": "1.0 & Drilling Thunder"
+      }
+    ]
+  },
+  "modules": {
+    "drillingThunderRelease": {
+      "eyebrow": "Date de sortie de Scrap Mechanic 1.0 et Drilling Thunder",
+      "title": "Scrap Mechanic sort d'accès anticipé le 24 juillet 2026 avec la mise à jour gratuite 1.0 Drilling Thunder. Voici le calendrier de sortie officiel et toutes les fonctionnalités confirmées, du forage souterrain et des terrains repensés aux nouveaux bots, raids retravaillés, armes, pièces de construction et améliorations graphiques.",
+      "intro": "24 juil. 2026",
+      "timeline": [
+        {
+          "date": "Lancement de 1.0 & Drilling Thunder",
+          "title": "Scrap Mechanic 1.0 et la mise à jour Drilling Thunder sortent ensemble, mettant fin à l'accès anticipé avec l'expérience complète de Survie, Créatif et Défi.",
+          "description": "Mise à jour gratuite"
+        },
+        {
+          "date": "Gratuit pour tous les détenteurs",
+          "title": "Drilling Thunder est une mise à jour gratuite pour tous ceux qui possèdent déjà Scrap Mechanic sur Steam, sans aucun achat supplémentaire requis.",
+          "description": "Sortie officielle"
+        },
+        {
+          "date": "Full Release",
+          "title": "Fin de l'accès anticipé",
+          "description": "Les modes Survie, Créatif et Défi sortent de l'accès anticipé pour passer à la version 1.0 finale avec une progression repensée."
+        }
+      ],
+      "features": [
+        {
+          "name": "Forage souterrain",
+          "description": "Forez dans de toutes nouvelles couches souterraines regorgeant de nouvelles ressources, de nouvelles menaces minières et de voies d'exploration plus profondes."
+        },
+        {
+          "name": "Terrain repensé",
+          "description": "La génération du monde et les biomes entièrement repensés modifient l'apparence et le gameplay des cartes de Survie pour chaque nouvelle sauvegarde."
+        },
+        {
+          "name": "Nouveaux bots ennemis",
+          "description": "Affrontez le Minerbot volant, le Totebot rouge explosif, le Totebot jaune sauteur et le Totebot bleu amphibie."
+        },
+        {
+          "name": "Raids retravaillés",
+          "description": "Les raids commencent désormais immédiatement lorsqu'ils sont déclenchés, avec un déplacement des ennemis plus intelligent et une difficulté mieux ajustée."
+        },
+        {
+          "name": "Nouvelles armes et pièces",
+          "description": "Développez votre arsenal et votre boîte à outils avec des armes et des pièces de construction supplémentaires pour le combat et l'ingénierie."
+        },
+        {
+          "name": "Améliorations graphiques",
+          "description": "Les améliorations visuelles et d'éclairage confèrent à la planète agricole un aspect moderne et soigné."
+        }
+      ]
+    },
+    "beginnerGuide": {
+      "eyebrow": "Bien démarrer",
+      "title": "Guide du débutant Scrap Mechanic",
+      "intro": "Commencez le mode Survie du bon pied. Suivez les quêtes de départ, depuis la recherche de la Batterie principale jusqu'à l'activation du vaisseau écrasé et la construction de votre premier véhicule, tout en apprenant les commandes, la gestion de l'inventaire, la nourriture, l'eau, le Cric et l'Outil de connexion.",
+      "steps": [
+        {
+          "title": "Trouver la Batterie principale",
+          "description": "Fouillez le site du crash de départ et les points d'intérêt à proximité pour trouver la Batterie principale, la clé qui alimente votre premier véhicule et votre base."
+        },
+        {
+          "title": "Activer le vaisseau écrasé",
+          "description": "Utilisez la Batterie principale sur le vaisseau écrasé pour révéler le marqueur de carte de la Station de mécanicien et déverrouiller vos toutes premières options de fabrication."
+        },
+        {
+          "title": "Gérer les commandes, la nourriture et l'eau",
+          "description": "Maîtrisez les déplacements, le Cric et la gestion de l'inventaire. Gardez des réserves de nourriture et d'eau afin de ne jamais vous faire surprendre par la faim ou une santé faible."
+        },
+        {
+          "title": "Apprendre à utiliser le Cric et l'Outil de connexion",
+          "description": "Utilisez le Cric pour positionner les pièces et l'Outil de connexion pour relier les sièges, les moteurs, les roulements et les interrupteurs afin de créer des machines fonctionnelles."
+        },
+        {
+          "title": "Construire votre premier véhicule",
+          "description": "Assemblez une voiture simple et stable avec un siège, un moteur, des roues et des roulements, puis testez-la à faible puissance avant d'ajouter d'autres pièces mobiles."
+        },
+        {
+          "title": "Définir les premières priorités en ressources",
+          "description": "Rassemblez d'abord du bois, de la pierre et du métal, puis dirigez-vous vers une Station de mécanicien et une Station d'emballage pour progresser régulièrement."
+        }
+      ],
+      "quickTips": [
+        "Ayez toujours sur vous une Masse, votre outil principal pour briser les blocs et récolter les ressources.",
+        "Gardez le Cric à proximité lors de la construction ; il facilite grandement le placement et la rotation des pièces.",
+        "Stockez les Batteries principales de rechange en lieu sûr, car une panne d'énergie peut bloquer votre véhicule loin de votre base.",
+        "L'eau et la nourriture diminuent avec le temps, alors faites le plein avant de longs voyages d'exploration ou d'agriculture."
+      ]
+    },
+    "survivalMap": {
+      "eyebrow": "Carte du monde",
+      "title": "Carte de survie et emplacements de Scrap Mechanic",
+      "intro": "Naviguez dans le monde de Survie en toute confiance. Apprenez où trouver les Stations de mécanicien, les Stations d'emballage, le Marchand, les entrepôts, les ruines et les biomes de ressources, en plus d'un itinéraire d'exploration recommandé et de la façon dont les mondes générés changent dans la mise à jour 1.0.",
+      "locations": [
+        {
+          "name": "Station de mécanicien",
+          "type": "Centre de fabrication",
+          "description": "Un point de repère de départ clé qui déverrouille les établis de fabrication et vous oriente vers les prochaines étapes de progression sur la carte."
+        },
+        {
+          "name": "Station d'emballage",
+          "type": "Poste de commerce",
+          "description": "Emballez les récoltes dans des caisses pour les vendre, transformant une production agricole régulière en une source de revenus fiable."
+        },
+        {
+          "name": "Le Marchand",
+          "type": "Marchand",
+          "description": "Un marchand qui achète des produits emballés et vend des fournitures utiles, des graines et des améliorations pour votre base."
+        },
+        {
+          "name": "Entrepôts",
+          "type": "Butin à haut risque",
+          "description": "De grandes structures remplies de butin, de kits de composants et de dangereux Tapebots qui gardent chaque étage."
+        },
+        {
+          "name": "Ruines",
+          "type": "Site d'exploration",
+          "description": "Des ruines dispersées cachent des ressources, des pièces et des indices qui rendent l'exploration de début de partie bien plus gratifiante."
+        },
+        {
+          "name": "Biomes de ressources",
+          "type": "Zone de collecte",
+          "description": "Les forêts, les champs, les montagnes et les lacs fournissent chacun différents matériaux de bois, de pierre, de métal et de nourriture."
+        },
+        {
+          "name": "Couches souterraines",
+          "type": "Ajout 1.0",
+          "description": "Drilling Thunder ajoute des zones souterraines forables avec de nouvelles ressources et de nouveaux ennemis miniers sous la surface."
+        }
+      ],
+      "routeSteps": [
+        "Commencez au site du crash et récupérez la batterie principale",
+        "Rejoignez une station de mécanicien pour déverrouiller la fabrication",
+        "Ouvrez la station d'emballage et rencontrez le marchand",
+        "Progressez vers les entrepôts pour obtenir des kits de composants"
+      ]
+    },
+    "craftingRecipes": {
+      "eyebrow": "Stations de fabrication",
+      "title": "Recettes de fabrication et Craftbots de Scrap Mechanic",
+      "intro": "Organisez votre fabrication autour de la famille de stations de Scrap Mechanic. Découvrez ce que produit chaque Craftbot, quels matériaux sont importants, comment les améliorations de station débloquent de nouvelles recettes et quelles priorités de kits de composants maintiennent votre progression.",
+      "stations": [
+        {
+          "name": "Mini Craftbot",
+          "role": "Robot de démarrage portable",
+          "description": "Un robot de fabrication compact de début de partie qui gère vos premières recettes de base avant d'atteindre une station complète."
+        },
+        {
+          "name": "Craftbot",
+          "role": "Station principale",
+          "description": "Le centre de fabrication principal qui transforme les ressources brutes et les kits de composants en blocs, pièces et outils."
+        },
+        {
+          "name": "Refinebot",
+          "role": "Raffinage",
+          "description": "Traite les matériaux bruts minés et récoltés en ressources raffinées utilisées par d'autres stations."
+        },
+        {
+          "name": "Cookbot",
+          "role": "Cuisine",
+          "description": "Combine les récoltes et les ingrédients en plats cuisinés qui restaurent plus de faim que les produits bruts."
+        },
+        {
+          "name": "Dressbot",
+          "role": "Cosmétiques",
+          "description": "Fabrique des vêtements et des objets cosmétiques pour vous permettre de personnaliser l'apparence de votre personnage."
+        }
+      ],
+      "componentPriorities": [
+        "Améliorez d'abord le Craftbot pour débloquer des recettes de niveau supérieur.",
+        "Priorisez les kits de composants qui déverrouillent les moteurs, les roulements et les contrôleurs.",
+        "Gardez le Refinebot alimenté avec un approvisionnement régulier en matières premières.",
+        "Construisez des chaînes de fabrication automatisées une fois que vous disposez d'une alimentation et d'un stockage stables."
+      ]
+    },
+    "vehiclesAndBuilding": {
+      "eyebrow": "Plans d'ingénierie",
+      "title": "Guide de construction et de véhicules pour Scrap Mechanic",
+      "intro": "Les créations réussies commencent par un châssis rigide, des roulements correctement orientés et un poids équilibré. Utilisez l'Outil de connexion pour relier les sièges, les moteurs, les contrôleurs, les interrupteurs, les capteurs et les joints motorisés, puis testez chaque système à basse vitesse avant d'augmenter la puissance ou d'ajouter d'autres pièces mobiles.",
+      "blueprints": [
+        {
+          "name": "Voiture de démarrage stable",
+          "bestFor": "Exploration, premières collectes de ressources et apprentissage des commandes du véhicule",
+          "coreParts": [
+            "Siège conducteur",
+            "Moteur à essence ou Moteur électrique",
+            "Quatre roulements de roue",
+            "Quatre roues",
+            "Châssis large",
+            "Suspension optionnelle"
+          ],
+          "buildSteps": [
+            "Construisez un châssis rectangulaire large avec le siège près de son centre.",
+            "Montez les roues avant sur des roulements de direction et les roues motrices sur des roulements motorisés.",
+            "Connectez le siège aux roulements de direction et le moteur aux roulements des roues motrices.",
+            "Utilisez les flèches de l'Outil de connexion pour corriger les roues qui tournent ou se dirigent dans le mauvais sens.",
+            "Commencez avec une faible puissance de moteur et augmentez-la une fois que la voiture peut accélérer sans se retourner."
+          ],
+          "tuning": "Gardez les moteurs lourds, les batteries et le stockage près du sol. Un empattement plus long et une voie plus large améliorent la stabilité, tandis que la suspension aide à maintenir le contact des roues sur un terrain accidenté.",
+          "failureChecks": [
+            "Sens de roulement inversé",
+            "Châssis étroit avec un centre de gravité élevé",
+            "Trop de puissance moteur",
+            "Roues qui frottent contre le châssis",
+            "Rouements de direction connectés au moteur"
+          ]
+        },
+        {
+          "name": "Transporteur de fret tout-terrain",
+          "bestFor": "Transport de caisses, de carburant, de cultures et de matériaux de construction",
+          "coreParts": [
+            "Châssis renforcé",
+            "Grandes roues",
+            "Suspension",
+            "Siège conducteur",
+            "Moteur",
+            "Conteneurs de ressources ou de stockage"
+          ],
+          "buildSteps": [
+            "Placez la zone de chargement entre les essieux avant et arrière plutôt que derrière le véhicule.",
+            "Utilisez des suspensions sur toutes les roues et laissez suffisamment d'espace pour qu'elles se compriment.",
+            "Répartissez les conteneurs uniformément sur le châssis et sécurisez la cargaison instable à l'intérieur de parois ou de rails.",
+            "Motorisez plusieurs roues lorsque le véhicule doit gravir des collines ou transporter de lourdes charges."
+          ],
+          "tuning": "Testez le transporteur à vide et à pleine charge. Réduisez la vitesse ou élargissez le châssis si le véhicule devient instable après l'ajout de cargaison.",
+          "failureChecks": [
+            "Poids de la cargaison concentré à l'arrière",
+            "Suspension bloquée par les pièces environnantes",
+            "Garde au sol insuffisante",
+            "Petites roues qui accrochent le terrain",
+            "Puissance du moteur trop faible pour le véhicule chargé"
+          ]
+        },
+        {
+          "name": "Abatteuse d'arbres",
+          "bestFor": "Couper des arbres et collecter du bois plus efficacement",
+          "coreParts": [
+            "Lames de scie",
+            "Roulements motorisés",
+            "Moteur",
+            "Châssis avant bas",
+            "Collecteur de ressources",
+            "Cage de protection"
+          ],
+          "buildSteps": [
+            "Montez une ou plusieurs lames de scie sur des roulements motorisés à l'avant d'un véhicule stable.",
+            "Positionnez les lames assez bas pour toucher les troncs sans heurter le sol.",
+            "Protégez le siège du conducteur et les roues contre la chute des bûches.",
+            "Placez un collecteur de ressources là où les morceaux de bois raffinés peuvent être récupérés.",
+            "Approchez les arbres lentement pour que les lames restent en contact au lieu de pousser le véhicule sur le côté."
+          ],
+          "tuning": "Utilisez une vitesse de rotation modérée et un châssis lourd et large. Des lames rapides sur un véhicule léger provoquent souvent des rebonds, une perte de direction ou des tonneaux.",
+          "failureChecks": [
+            "Rotation de la scie inversée",
+            "Lames montées trop haut",
+            "Véhicule trop léger pour la force de coupe",
+            "Aucune protection contre la chute des arbres",
+            "Collecteur positionné hors de la trajectoire des matériaux"
+          ]
+        },
+        {
+          "name": "Foreuse de roche",
+          "bestFor": "Briser des formations rocheuses et collecter des ressources métallifères",
+          "coreParts": [
+            "Têtes de forage",
+            "Moteur électrique ou moteur à essence",
+            "Roulements motorisés",
+            "Pistons",
+            "Collecteur de ressources",
+            "Châssis lourd et bas"
+          ],
+          "buildSteps": [
+            "Montez des foreuses rotatives sur un assemblage avant renforcé.",
+            "Utilisez des pistons lorsque la foreuse nécessite une pression vers l'avant contrôlée ou un réglage de la hauteur.",
+            "Connectez les roulements de la foreuse à un moteur et les commandes des pistons à des interrupteurs séparés.",
+            "Placez un collecteur de ressources à proximité des morceaux de ressources brisés.",
+            "Avancez lentement et laissez la foreuse briser le gisement au lieu de le percuter."
+          ],
+          "tuning": "Une configuration à basse vitesse et haute précision est plus facile à aligner. Des contrepoids ou une section arrière plus large empêchent l'ensemble de forage de tirer le véhicule vers l'avant ou sur le côté.",
+          "failureChecks": [
+            "Foreuses tournant à l'opposé de la cible",
+            "Pistons s'étendant trop rapidement",
+            "Assemblage avant plus lourd que l'arrière",
+            "Collecteur bloqué par des pièces de la foreuse",
+            "Torsion du châssis sous la charge"
+          ]
+        },
+        {
+          "name": "Bateau utilitaire vanilla",
+          "bestFor": "Traverser les lacs et déplacer des fournitures entre les rives",
+          "coreParts": [
+            "Coque large et légère",
+            "Siège",
+            "Propulseurs ou un autre système de propulsion adapté à l'eau",
+            "Roulements de direction",
+            "Interrupteurs",
+            "Plateforme de cargaison surélevée"
+          ],
+          "buildSteps": [
+            "Construisez une coque large et symétrique et testez si elle flotte bien à plat avant d'ajouter des machines.",
+            "Placez le siège, le carburant et la cargaison près du centre de la coque.",
+            "Montez la propulsion de manière uniforme des deux côtés ou le long de la ligne médiane.",
+            "Utilisez des roulements de direction, une propulsion à commande indépendante ou une poussée orientable pour tourner.",
+            "Gardez les commandes importantes et la cargaison au-dessus de la ligne de flottaison normale."
+          ],
+          "tuning": "Ajoutez du poids en petites quantités et retestez après chaque modification. Un placement inégal de l'équipement provoque de la gîte, tandis que les coques étroites deviennent instables lors des virages serrés.",
+          "failureChecks": [
+            "Poids inégal entre la gauche et la droite",
+            "Propulsion décentrée",
+            "Cargaison lourde placée à une extrémité",
+            "Coque trop étroite",
+            "Pièces mobiles touchant la coque"
+          ]
+        },
+        {
+          "name": "Machine à contrôleurs et logique",
+          "bestFor": "Portes, ascenseurs, véhicules pliables, marcheurs, pièges et production automatisée",
+          "coreParts": [
+            "Contrôleur",
+            "Roulements",
+            "Pistons",
+            "Portes logiques",
+            "Temporisateurs et capteurs",
+            "Boutons ou interrupteurs"
+          ],
+          "buildSteps": [
+            "Utilisez un contrôleur pour attribuer des angles cibles et des séquences de mouvement aux roulements connectés.",
+            "Utilisez des pistons pour les mouvements d'extension rectiligne, de levage ou de serrage.",
+            "Connectez des capteurs pour détecter les joueurs, les bots, les cultures ou les objets en mouvement.",
+            "Utilisez des portes logiques pour exiger plusieurs conditions ou inverser une entrée.",
+            "Ajoutez des temporisateurs lorsque les actions doivent se produire dans un ordre fixe plutôt que simultanément.",
+            "Testez un joint mobile à la fois avant de connecter la séquence complète."
+          ],
+          "tuning": "Ralentissez la vitesse du contrôleur et le mouvement des pistons pendant les tests. Laissez un espace libre autour de chaque section rotative ou extensible et utilisez des interrupteurs séparés pour la réinitialisation ou l'arrêt d'urgence.",
+          "failureChecks": [
+            "Rotation du roulement bloquée par une autre pièce",
+            "Étapes du contrôleur utilisant le mauvais sens de rotation",
+            "Pistons dépassant l'espace libre disponible",
+            "Boucle logique s'activant elle-même en boucle",
+            "Trop de corps mobiles entrant en collision en même temps"
+          ]
+        }
+      ]
+    },
+    "farmingAndRaid": {
+      "eyebrow": "---",
+      "title": "Agriculture de survie",
+      "intro": "Agriculture et défense contre les raids dans Scrap Mechanic",
+      "stages": [
+        {
+          "stage": "Placez des sacs de terre sur un sol approprié, plantez une graine dans chaque parcelle et arrosez jusqu'à maturité. L'engrais accélère la croissance, tandis que chaque culture plantée augmente la valeur de raid de la ferme selon le système de Survie actuel.",
+          "system": "1. Démarrer une ferme de base",
+          "whatToDo": "Terre et plantation",
+          "keyData": "Placez des sacs de terre sur un sol plat, plantez une graine par parcelle et arrosez chaque culture avec un seau d'eau. Appliquez de l'engrais quand une croissance rapide est plus importante que l'économie de ressources.",
+          "raidRisk": "Les cultures doivent être arrosées pour progresser. L'engrais accélère la croissance mais ne supprime pas le besoin d'eau.",
+          "defenseUpgrade": "Gardez la première ferme petite tout en récoltant des matériaux de construction et des armes."
+        },
+        {
+          "stage": "Utilisez le terrain, un mur simple et un chemin d'évasion dégagé.",
+          "system": "2. Cultures de faible valeur",
+          "whatToDo": "Betterave rouge, carotte et tomate",
+          "keyData": "Utilisez ces cultures pour la nourriture de début de partie, les échanges et pour apprendre le système de raid.",
+          "raidRisk": "Betterave rouge : 1 point de valeur ; Carotte : 1 point de valeur ; Tomate : 1 point de valeur.",
+          "defenseUpgrade": "Dix de ces cultures atteignent la valeur totale minimale de culture requise pour déclencher un raid."
+        },
+        {
+          "stage": "Construisez un périmètre qui canalise les bots vers un côté de la ferme.",
+          "system": "3. Cultures utilitaires et de valeur moyenne",
+          "whatToDo": "Pomme de terre, coton, banane, myrtille et orange",
+          "keyData": "Cultivez des pommes de terre pour les munitions du Spudgun, du coton pour la fabrication, et des fruits pour la nourriture ou le commerce.",
+          "raidRisk": "Pomme de terre : 1,5 point de valeur ; Coton : 1,5 ; Banane : 2 ; Myrtille : 2 ; Orange : 2.",
+          "defenseUpgrade": "Un plus petit nombre de ces cultures peut atteindre le même seuil de raid qu'une plus grande ferme de base."
+        },
+        {
+          "stage": "Améliorez les murs vulnérables et ajoutez des positions de tir surélevées.",
+          "system": "4. Cultures de haute valeur",
+          "whatToDo": "Brocoli et ananas",
+          "keyData": "Utilisez ces cultures de fin de partie pour la nourriture avancée et les échanges après avoir obtenu leurs graines via la progression dans les entrepôts.",
+          "raidRisk": "Brocoli : 3 points de valeur ; Ananas : 3 points de valeur. Les deux comptent comme des cultures de haute valeur dans le système de raid actuel.",
+          "defenseUpgrade": "Les grandes fermes de haute valeur peuvent introduire des Tapebots et des Farmbots dans les raids avancés."
+        },
+        {
+          "stage": "Utilisez des matériaux résistants, des couloirs de tir protégés et plusieurs barrières de repli.",
+          "system": "5. Déclenchement actuel des raids",
+          "whatToDo": "Agriculture non autorisée",
+          "keyData": "Vérifiez l'avertissement de raid avant de quitter la ferme et terminez les réparations avant le début de l'attaque.",
+          "raidRisk": "Un raid est déclenché lorsque le total local de cultures atteint au moins 10. Le niveau du raid est calculé lorsque l'agriculture est détectée, donc récolter les cultures après coup n'annule pas l'attaque prévue.",
+          "defenseUpgrade": "Cultiver pendant plusieurs jours consécutifs augmente l'intensité des raids. Interrompre la série permet de réinitialiser l'escalade."
+        },
+        {
+          "stage": "Gardez des blocs de rechange, des munitions, de la nourriture et un lit à l'écart du mur extérieur.",
+          "system": "6. Arrosage automatique",
+          "whatToDo": "Réservoir d'eau, pompe à vide et canon à eau",
+          "keyData": "Collectez l'eau dans un réservoir d'eau et utilisez des canons à eau orientés mécaniquement pour couvrir les rangées de cultures.",
+          "raidRisk": "Des contrôleurs, roulements ou pistons peuvent déplacer un canon à eau sur plusieurs rangées. Des minuteurs et des portes logiques peuvent coordonner des cycles d'arrosage répétés.",
+          "defenseUpgrade": "L'automatisation rend les grandes fermes pratiques, mais les zones plantées plus vastes génèrent des raids plus puissants."
+        },
+        {
+          "stage": "Protégez les pompes, réservoirs, contrôleurs et tuyaux exposés derrière le mur principal.",
+          "system": "Murs, pièges et plateformes de tir",
+          "whatToDo": "Créez des entrées étroites qui forcent les bots à emprunter des chemins prévisibles. Utilisez des lames rotatives, des broyeurs, des pièges ou des Spudguns à visée mécanique pour soutenir le combat manuel.",
+          "keyData": "Les bots attaquent les cultures et les structures, les systèmes de défense doivent donc être placés à l'extérieur de la zone de culture avec suffisamment d'espace pour se déplacer.",
+          "raidRisk": "Les pièges complexes peuvent se bloquer lorsque des corps de bots, des blocs détachés ou des pièces endommagées pénètrent dans le mécanisme.",
+          "defenseUpgrade": "Ajoutez une commande manuelle et gardez une ligne de tir dégagée depuis l'intérieur de la base."
+        },
+        {
+          "stage": "8. Version 1.0 Agriculture et Raids",
+          "system": "Lits de culture UV et attaques repensées",
+          "whatToDo": "Utilisez des lits de culture UV électriques pour cultiver sous terre ou sur des créations mobiles, puis protégez-les aussi soigneusement que les cultures extérieures.",
+          "keyData": "Le système de raid repensé lance les attaques immédiatement après leur déclenchement, améliore l'ajustement de la difficulté et offre aux ennemis une sélection de chemin plus intelligente. De nouvelles variantes de bots peuvent également apparaître.",
+          "raidRisk": "Les anciennes défenses conçues pour attendre minuit ou exploiter les failles de navigation doivent être repensées.",
+          "defenseUpgrade": "Créez plusieurs itinéraires défendus, protégez les cultures de tous les côtés et préparez des armes pour les bots de mêlée, à distance, explosifs et volants."
+        }
+      ]
+    },
+    "botsAndCombat": {
+      "eyebrow": "Base de données des ennemis",
+      "title": "Guide des bots et du combat de Scrap Mechanic",
+      "intro": "Ne combattez pas tous les bots de la même manière. Les bots de mêlée peuvent être isolés et attirés, les Tapebots nécessitent une couverture, les Farmbots doivent être attaqués à distance, et les variantes 1.0 introduisent des menaces sauteuses, sous-marines, explosives, ralentissantes et volantes.",
+      "bots": [
+        {
+          "name": "Totebot vert",
+          "status": "Ennemi actuel du mode Survie",
+          "attackType": "Attaque de mêlée à courte portée",
+          "dangerousLocations": [
+            "Champs",
+            "Routes",
+            "Ruines",
+            "Premiers raids"
+          ],
+          "notableDrops": [
+            "Circuit imprimé",
+            "Tête de Totebot décorative occasionnelle"
+          ],
+          "recommendedWeapons": [
+            "Masse",
+            "N'importe quel Spudgun"
+          ],
+          "combatStrategy": "Laissez le Totebot s'approcher, esquivez son coup et contre-attaquez avec la Masse. Évitez de vous laisser encercler par plusieurs Totebots."
+        },
+        {
+          "name": "Haybot",
+          "status": "Ennemi actuel du mode Survie",
+          "attackType": "Coup de fourche et balayage de mêlée plus lourd",
+          "dangerousLocations": [
+            "Prairies",
+            "Champs",
+            "Ruines",
+            "Raids de culture"
+          ],
+          "notableDrops": [
+            "Ferraille",
+            "Circuit imprimé possible",
+            "Kit de composants possible"
+          ],
+          "recommendedWeapons": [
+            "Masse pour les cibles isolées",
+            "Spudgun pour les groupes"
+          ],
+          "combatStrategy": "Reculez tout en attaquant et séparez les Haybots avant de passer au corps à corps. Utilisez l'eau, le terrain ou les obstacles pour interrompre les groupes et créer de l'espace."
+        },
+        {
+          "name": "Tapebots bleus et rouges",
+          "status": "---",
+          "attackType": "Ennemis actuels du mode Survie",
+          "dangerousLocations": [
+            "Projectiles de ruban rapides ou projectiles explosifs plus lents",
+            "Extérieurs des entrepôts",
+            "Étages des entrepôts"
+          ],
+          "notableDrops": [
+            "Raids avancés",
+            "Batterie possible"
+          ],
+          "recommendedWeapons": [
+            "Kit de composants possible",
+            "Spudgun",
+            "Spud Shotgun"
+          ],
+          "combatStrategy": "Spudling Gun"
+        },
+        {
+          "name": "Combattez à couvert et ne vous exposez que pour tirer. Ne foncez jamais à travers les rubans d'un entrepôt sans vérifier la pièce, et éloignez-vous des tirs explosifs des Tapebots rouges.",
+          "status": "Farmbot",
+          "attackType": "Ennemi lourd actuel du mode Survie",
+          "dangerousLocations": [
+            "Attaques de faux, coups de pied et dégâts de zone à base de pesticides",
+            "Zones de patrouille en monde ouvert",
+            "Environs des entrepôts"
+          ],
+          "notableDrops": [
+            "Raids de culture de haut niveau",
+            "Clé d'entrepôt dans le mode Survie actuel",
+            "Kits de composants"
+          ],
+          "recommendedWeapons": [
+            "Cartes de circuits imprimés",
+            "Spudgun",
+            "Spud Shotgun"
+          ],
+          "combatStrategy": "Spudling Gun"
+        },
+        {
+          "name": "Gardez vos distances et utilisez de gros obstacles pour bloquer les charges. Ne restez pas dans les nuages de pesticides et ne tentez pas de combat prolongé à la masse contre un Farmbot en bonne santé.",
+          "status": "Minerbot",
+          "attackType": "Ennemi de la version 1.0",
+          "dangerousLocations": [
+            "Projection de rochers volants suivie d'un crash dangereux lors de sa destruction",
+            "Mines souterraines",
+            "Stations souterraines"
+          ],
+          "notableDrops": [
+            "Grands groupes dans des cavernes ouvertes"
+          ],
+          "recommendedWeapons": [
+            "Aucun butin unique répertorié dans la présentation officielle du bot",
+            "Spudgun"
+          ],
+          "combatStrategy": "Tir à distance rapide"
+        },
+        {
+          "name": "Continuez à bouger tout en suivant le bot dans les airs. Tirez d'un angle qui empêche le Minerbot endommagé de s'écraser directement sur vous.",
+          "status": "Totebot jaune",
+          "attackType": "Ennemi de la version 1.0",
+          "dangerousLocations": [
+            "Écrasement sauté pouvant fracasser les sols et les plafonds",
+            "Bases à plusieurs niveaux",
+            "Toits",
+            "---"
+          ],
+          "notableDrops": [
+            "Raids repensés"
+          ],
+          "recommendedWeapons": [
+            "Aucun butin unique répertorié dans la présentation officielle des bots",
+            "Spudgun"
+          ],
+          "combatStrategy": "Spud Shotgun"
+        },
+        {
+          "name": "Ne vous fiez pas à un seul étage ou à un toit bas pour vous protéger. Déplacez-vous latéralement lorsqu'il saute et éloignez les commandes importantes des plafonds exposés.",
+          "status": "Totebot Bleu",
+          "attackType": "Ennemi de la version 1.0",
+          "dangerousLocations": [
+            "Attaque de torpille sous-marine rapide et poursuite rapide sur terre",
+            "Lacs",
+            "Rivages",
+            "Bases aquatiques"
+          ],
+          "notableDrops": [
+            "Itinéraires amphibies"
+          ],
+          "recommendedWeapons": [
+            "Aucun butin unique répertorié dans la présentation officielle des bots",
+            "Spudgun"
+          ],
+          "combatStrategy": "Évasion rapide en véhicule"
+        },
+        {
+          "name": "Ne supposez pas que l'eau est un refuge sûr. Sortez rapidement de l'eau, prenez de la distance et combattez depuis un sol stable où son approche est plus facile à suivre.",
+          "status": "Totebot Rouge",
+          "attackType": "Ennemi de la version 1.0",
+          "dangerousLocations": [
+            "Charge suicide explosive pouvant enflammer les matériaux à proximité",
+            "Zones liées aux mines",
+            "Rencontres en surface",
+            "Groupes de raid"
+          ],
+          "notableDrops": [
+            "Bases inflammables"
+          ],
+          "recommendedWeapons": [
+            "Aucun butin unique répertorié dans la présentation officielle des bots",
+            "Spudgun"
+          ],
+          "combatStrategy": "Explosifs à longue portée"
+        },
+        {
+          "name": "Tirez-lui dessus avant qu'il n'atteigne les murs, les véhicules ou les cultures. Séparez-le des autres bots pour que son explosion blesse les ennemis au lieu d'ouvrir un passage dans votre base.",
+          "status": "Tapebots Verts et Jaunes",
+          "attackType": "Variantes d'ennemis de la version 1.0",
+          "dangerousLocations": [
+            "Plastique à bulles offensif ou encre infligeant des dégâts qui ralentit les mouvements",
+            "Nouvelles installations",
+            "Zones sur le thème du stockage",
+            "Raids repensés"
+          ],
+          "notableDrops": [
+            "Groupes couvrant plusieurs angles"
+          ],
+          "recommendedWeapons": [
+            "Aucun butin unique répertorié dans la présentation officielle des bots",
+            "Spudgun"
+          ],
+          "combatStrategy": "Cornade contre les bots regroupés"
+        },
+        {
+          "name": "Priorisez les Tapebots Jaunes avant que leur encre ralentissante ne limite vos mouvements. Les Tapebots Verts sont moins menaçants seuls, mais deviennent dangereux lorsque plusieurs exercent une pression continue sur la même position.",
+          "status": "Trashbot",
+          "attackType": "---",
+          "dangerousLocations": [
+            "Comportement de combat agressif et lourd",
+            "Lieux de Survie étendus",
+            "Zones industrielles confinées"
+          ],
+          "notableDrops": [
+            "Rencontres de fin de partie"
+          ],
+          "recommendedWeapons": [
+            "Aucun butin unique répertorié dans la dernière mise à jour officielle",
+            "Spudling Gun",
+            "Spud Shotgun"
+          ],
+          "combatStrategy": "Cornade"
+        }
+      ]
+    },
+    "modsAndWorkshop": {
+      "eyebrow": "Utilisez l'espace, les abris et des dégâts à distance soutenus. Évitez d'entrer dans une pièce confinée sans issue de secours ou sans munitions suffisantes pour terminer l'affrontement.",
+      "title": "Workshop et Modding",
+      "intro": "Mods de Scrap Mechanic et Steam Workshop",
+      "workshop": [
+        {
+          "name": "Le contenu du Steam Workshop s'installe en s'abonnant à un objet tout en étant connecté à Steam. Scrap Mechanic prend en charge les blueprints ordinaires, les mods de Blocs et de Pièces, les mondes Créatifs personnalisés et les Jeux Personnalisés complets avec leurs propres scripts, outils, ennemis, terrains et progression.",
+          "category": "Blueprints du Workshop",
+          "whatItAdds": "Créations construites par les joueurs",
+          "installation": [
+            "Véhicules, machines, bâtiments, systèmes logiques et créations décoratives sauvegardés par d'autres joueurs.",
+            "Ouvrez le Steam Workshop de Scrap Mechanic.",
+            "Sélectionnez un blueprint et cliquez sur S'abonner.",
+            "Lancez le jeu une fois que Steam a terminé de télécharger l'objet.",
+            "Ouvrez le navigateur de créations du Lift dans un mode qui prend en charge le chargement de blueprints."
+          ],
+          "compatibility": "Choisissez la création abonnée et placez-la sur le Lift.",
+          "precautions": "Un blueprint utilisant des blocs moddés nécessite chaque dépendance de Blocs et de Pièces répertoriée."
+        },
+        {
+          "name": "Vérifiez la taille du blueprint et les mods requis avant de le charger dans un monde important. Les créations très volumineuses ou complexes peuvent réduire les performances.",
+          "category": "Mods de Blocs et de Pièces",
+          "whatItAdds": "Contenu de construction",
+          "installation": [
+            "Nouveaux blocs, moteurs, roues, pièces interactives, composants logiques, outils, armes, effets et pièces décoratives.",
+            "Abonnez-vous au mod principal et à chaque dépendance affichée sur sa page Workshop.",
+            "Activez les mods requis lors de la création ou du chargement d'un monde moddé compatible."
+          ],
+          "compatibility": "Redémarrez le jeu si le contenu nouvellement abonné n'apparaît pas immédiatement.",
+          "precautions": "Les participants en multijoueur doivent avoir accès au même contenu activé. Supprimer un mod requis peut laisser des pièces manquantes ou empêcher le chargement correct d'une création."
+        },
+        {
+          "name": "Gardez une liste des mods requis pour les mondes à long terme et évitez de vous désabonner des dépendances tant que ces mondes utilisent encore leurs pièces.",
+          "category": "Mondes Personnalisés",
+          "whatItAdds": "Environnements Créatifs",
+          "installation": [
+            "Terrains, routes, structures, tuiles, défis et espaces d'exploration construits par la communauté.",
+            "Abonnez-vous au monde via la catégorie Worlds du Workshop.",
+            "Ouvrez l'écran de sélection de monde ou du mode Créatif du jeu.",
+            "Sélectionnez le monde personnalisé abonné et vérifiez ses mods requis."
+          ],
+          "compatibility": "Créez une sauvegarde séparée pour le premier test.",
+          "precautions": "Les Mondes Personnalisés peuvent dépendre d'assets de terrain, de mods de Blocs et de Pièces, ou de packs Workshop supplémentaires."
+        },
+        {
+          "name": "N'écrasez pas une sauvegarde existante lors du test d'un monde nouvellement téléchargé. Gardez le monde original et la copie de test séparés.",
+          "category": "Modes de jeu complets",
+          "whatItAdds": "Expériences de Survie moddées ou jeux autonomes avec scripts, quêtes, outils, ennemis, terrains et règles personnalisés.",
+          "installation": [
+            "Abonnez-vous au Jeu Personnalisé et à ses dépendances.",
+            "Ouvrez l'écran de sélection du mode de jeu.",
+            "Sélectionnez Jeux Personnalisés dans la zone en haut à droite.",
+            "Choisissez le jeu téléchargé et créez une nouvelle sauvegarde."
+          ],
+          "compatibility": "L'hôte sélectionne le Jeu Personnalisé et contrôle la session. Tous les joueurs doivent avoir fini de télécharger les mêmes dépendances avant de rejoindre.",
+          "precautions": "Utilisez une sauvegarde dédiée pour chaque Jeu Personnalisé car ses scripts, son inventaire et les règles du monde peuvent ne pas correspondre aux modes Survie ou Création standards."
+        },
+        {
+          "name": "Configuration des mods en multijoueur",
+          "category": "Compatibilité en coop",
+          "whatItAdds": "Accès partagé aux mondes moddés, aux créations et aux Jeux Personnalisés complets.",
+          "installation": [
+            "Laissez l'hôte choisir le monde et l'ensemble de mods activés.",
+            "Partagez la collection du Workshop ou la liste des dépendances avec chaque joueur.",
+            "Attendez que Steam termine tous les téléchargements avant de rejoindre.",
+            "Redémarrez Steam ou Scrap Mechanic lorsqu'une dépendance reste indisponible."
+          ],
+          "compatibility": "Des versions de mods différentes, des dépendances manquantes ou des objets du Workshop supprimés peuvent empêcher de rejoindre ou causer du contenu manquant.",
+          "precautions": "Ne modifiez pas la liste des mods activés pendant une campagne active à moins que l'auteur du mod ne fournisse des instructions de migration."
+        },
+        {
+          "name": "Sécurité des sauvegardes et mises à jour",
+          "category": "Protection du monde",
+          "whatItAdds": "Un processus plus sûr pour tester les mises à jour, les branches expérimentales et les grandes collections de mods.",
+          "installation": [
+            "Fermez Scrap Mechanic avant de copier les fichiers de sauvegarde.",
+            "Sauvegardez le répertoire de sauvegarde utilisateur de Scrap Mechanic avant les mises à jour majeures du jeu ou des mods.",
+            "Testez le contenu mis à jour dans un monde copié.",
+            "Gardez les sauvegardes de la version stable et de la branche de test séparées."
+          ],
+          "compatibility": "Le contenu créé avec un Mod Tool plus récent, une branche de test ou une version de jeu incompatible peut ne pas se charger dans une version plus ancienne.",
+          "precautions": "N'ouvrez jamais une sauvegarde stable importante sur une branche expérimentale sans sauvegarde préalable. Les sauvegardes Windows et les sauvegardes automatiques sont stockées dans le dossier Scrap Mechanic à l'intérieur de AppData/Roaming/Axolot Games."
+        },
+        {
+          "name": "Création de mods via Lua",
+          "category": "Développement de mods",
+          "whatItAdds": "Pièces, outils, armes, PNJ, projectiles, attaques de mêlée, ressources récoltables, effets, logique de jeu, mondes et terrains procéduraux personnalisés.",
+          "installation": [
+            "Installez et ouvrez le Scrap Mechanic Mod Tool officiel via Steam.",
+            "Créez le projet de Blocs et Pièces, de Monde ou de Jeu Personnalisé approprié.",
+            "Définissez le contenu via des fichiers JSON et utilisez des scripts Lua pour le comportement.",
+            "Démarrez Scrap Mechanic avec l'option de lancement -dev lors du scripting pour accéder à la console de débogage et au rechargement à chaud des scripts.",
+            "Testez le comportement client et serveur avant de publier le projet sur le Workshop."
+          ],
+          "compatibility": "Scrap Mechanic utilise Lua 5.1 et sépare la simulation côté serveur des visuels, de l'audio et des entrées côté client. Les dépendances du Workshop peuvent être déclarées via le Mod Tool.",
+          "precautions": "Utilisez des identifiants uniques, validez le JSON, évitez les suppositions non restreintes sur l'accès client et testez le réseau multijoueur avant de publier une mise à jour."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Foire aux",
+    "titleHighlight": "questions",
+    "subtitle": "Tout ce que vous devez savoir sur Scrap Mechanic",
+    "questions": [
+      {
+        "question": "Qu'est-ce que Scrap Mechanic ?",
+        "answer": "---"
+      },
+      {
+        "question": "Scrap Mechanic est un sandbox de survie basé sur la physique développé par Axolot Games, où vous construisez des véhicules et des machines, explorez une planète agricole, fabriquez des ressources et vous défendez contre les Farmbots. Il est disponible sur Steam pour Windows.",
+        "answer": "Quand sortira Scrap Mechanic 1.0 ?"
+      },
+      {
+        "question": "Scrap Mechanic 1.0 et la mise à jour Drilling Thunder sortiront le 24 juillet 2026 sous la forme d'une mise à jour gratuite mettant fin à l'Accès Anticipé pour tous les détenteurs actuels.",
+        "answer": "Scrap Mechanic est-il multijoueur ?"
+      },
+      {
+        "question": "Oui. Scrap Mechanic prend en charge le jeu en coopération pour plusieurs joueurs dans les modes Survie, Créatif et Défi, vous permettant de construire, cultiver et explorer ensemble.",
+        "answer": "Quels sont les modes de jeu dans Scrap Mechanic ?"
+      },
+      {
+        "question": "Scrap Mechanic dispose de trois modes principaux : Survie, Créatif et Défi. Le mode Créatif comprend plus de 400 pièces de construction pour une ingénierie sans limites.",
+        "answer": "Où puis-je jouer à Scrap Mechanic ?"
+      },
+      {
+        "question": "Scrap Mechanic est disponible sur Steam pour Windows. Vous pouvez l'acheter sur la page officielle de la boutique Steam de Scrap Mechanic.",
+        "answer": "Comment fonctionnent les raids dans Scrap Mechanic ?"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Dans Scrap Mechanic Survival, l'agriculture augmente la valeur des récoltes de votre ferme. Une fois le seuil atteint, un raid se déclenche et les ennemis attaquent votre ferme ; les murs, les pièges et les armes sont donc essentiels.",
+    "description": "Prêt à maîtriser Scrap Mechanic ?",
+    "joinCommunity": "Rejoignez la communauté r/ScrapMechanic pour découvrir des constructions de véhicules, des mods et des conseils de survie, ou lancez-vous directement dans le jeu sur Steam.",
+    "joinGame": "Rejoindre la communauté Reddit"
+  },
+  "footer": {
+    "title": "Jouer sur Steam",
+    "description": "Wiki Scrap Mechanic",
+    "resources": "Votre centre de ressources complet pour la survie dans Scrap Mechanic, les constructions de véhicules, les recettes de fabrication, les guides sur les Farmbots et la dernière mise à jour 1.0 Drilling Thunder.",
+    "community": "Ressources",
+    "legal": "Communauté",
+    "reddit": "Mentions légales",
+    "twitter": "Reddit",
+    "youtube": "X / Twitter",
+    "steamStore": "YouTube",
+    "about": "Boutique Steam",
+    "privacy": "À propos",
+    "terms": "Politique de confidentialité",
+    "copyrightNotice": "Conditions d'utilisation",
+    "copyright": "Copyright",
+    "disclaimer": "© 2026 Scrap Mechanic Wiki. Non affilié à Axolot Games."
+  },
+  "pages": {
+    "survival": {
+      "title": "Site de ressources non officiel créé par des fans.",
+      "description": "Scrap Mechanic Survival",
+      "metaTitle": "Guides du mode Survie couvrant la Master Battery, le vaisseau écrasé, les itinéraires d'exploration, l'agriculture, les raids et la défense de base.",
+      "metaDescription": "Scrap Mechanic Survival - Quêtes, carte et défense contre les raids",
+      "categoryLabel": "Guides complets de Scrap Mechanic Survival couvrant les quêtes d'introduction, les emplacements de la carte de survie, l'agriculture, les raids et les stratégies de défense de base.",
+      "whatIs": "MODE SURVIE",
+      "whatIsDescription": "Qu'est-ce que le mode Survie ?",
+      "why": "Le mode Survie est le cœur de Scrap Mechanic, où vous récoltez des ressources, construisez des véhicules, cultivez des plantes, vous défendez contre les raids et progressez vers les entrepôts et le contenu de fin de jeu.",
+      "whySteps": {
+        "step1Title": "Pourquoi jouer au mode Survie ?",
+        "step1Description": "Suivez les quêtes d'introduction",
+        "step2Title": "Explorer le monde",
+        "step2Description": "Trouvez les Stations de Mécanique, les Stations d'Emballage, le Marchand et les entrepôts",
+        "step3Title": "Défendez votre ferme",
+        "step3Description": "Construisez des murs, des pièges et des tourelles pour survivre à des raids de robots de plus en plus intenses"
+      },
+      "featured": "En vedette et essentiels",
+      "all": "Tous les guides de survie"
+    },
+    "builds": {
+      "title": "Constructions Scrap Mechanic",
+      "description": "Plans de véhicules et de machines pour des voitures stables, des moissonneuses, des foreuses, des bateaux et des systèmes logiques automatisés.",
+      "metaTitle": "Constructions Scrap Mechanic - Plans de véhicules et de machines",
+      "metaDescription": "Apprenez à construire des véhicules et des machines Scrap Mechanic stables, incluant des voitures, des moissonneuses, des foreuses, des bateaux et des systèmes logiques pilotés par contrôleurs.",
+      "categoryLabel": "CONSTRUCTIONS DE VÉHICULES",
+      "whatIs": "Que sont les constructions ?",
+      "whatIsDescription": "Les constructions sont des véhicules et des machines conçus par les joueurs, assemblés à partir de châssis, de roulements, de moteurs, de roues, de contrôleurs et de pièces logiques à l'aide de l'Outil de Connexion.",
+      "why": "Pourquoi apprendre la construction ?",
+      "whySteps": {
+        "step1Title": "Maîtrisez les connexions",
+        "step1Description": "Reliez sièges, moteurs, roulements et interrupteurs pour créer des machines fonctionnelles",
+        "step2Title": "Équilibrez le poids",
+        "step2Description": "Gardez les pièces lourdes en bas et le châssis large pour une conduite stable",
+        "step3Title": "Automatisez avec la logique",
+        "step3Description": "Utilisez des contrôleurs, des capteurs, des minuteries et des portes logiques pour des créations avancées"
+      },
+      "featured": "En vedette et essentiels",
+      "all": "Tous les guides de construction"
+    },
+    "crafting": {
+      "title": "Artisanat Scrap Mechanic",
+      "description": "Recettes d'artisanat, stations de Craftbot, matériaux et priorités des Kits de Composants pour une production efficace.",
+      "metaTitle": "Artisanat Scrap Mechanic - Recettes, Craftbots et Kits de Composants",
+      "metaDescription": "Maîtrisez l'artisanat de Scrap Mechanic avec les recettes pour le Craftbot, le Refinebot, le Cookbot et le Dressbot, ainsi que les priorités des Kits de Composants et les chaînes automatisées.",
+      "categoryLabel": "SYSTÈME D'ARTISANAT",
+      "whatIs": "Qu'est-ce que l'artisanat ?",
+      "whatIsDescription": "L'artisanat dans Scrap Mechanic transforme les ressources brutes et les Kits de Composants en blocs, pièces, outils, nourriture et cosmétiques via le Craftbot, le Refinebot, le Cookbot et le Dressbot.",
+      "why": "Pourquoi planifier l'artisanat ?",
+      "whySteps": {
+        "step1Title": "Améliorez les stations",
+        "step1Description": "Améliorez d'abord le Craftbot pour débloquer des recettes de niveau supérieur",
+        "step2Title": "Priorisez les kits",
+        "step2Description": "Dépensez vos Kits de Composants pour les moteurs, les roulements et les contrôleurs",
+        "step3Title": "Automatisez les chaînes",
+        "step3Description": "Construisez des chaînes d'artisanat automatisées une fois que vous avez une alimentation stable"
+      },
+      "featured": "En vedette et essentiels",
+      "all": "Tous les guides d'artisanat"
+    },
+    "enemies": {
+      "title": "Ennemis de Scrap Mechanic",
+      "description": "Base de données des robots ennemis avec modèles d'attaque, habitats, butins, armes recommandées et stratégies de combat.",
+      "metaTitle": "Ennemis de Scrap Mechanic - Base de données des bots et Guide de combat",
+      "metaDescription": "Comparez tous les bots de Scrap Mechanic, y compris les Totebots, Haybots, Tapebots, Farmbots et les nouvelles variantes 1.0, avec leurs attaques, butins et contres.",
+      "categoryLabel": "BASE DE DONNÉES DES ENNEMIS",
+      "whatIs": "Que sont les ennemis ?",
+      "whatIsDescription": "Les ennemis sont les bots hostiles qui parcourent le monde et attaquent lors des raids, chacun avec ses propres attaques, habitats, butins et contres les plus sûrs.",
+      "why": "Pourquoi étudier les ennemis ?",
+      "whySteps": {
+        "step1Title": "Apprendre les schémas d'attaque",
+        "step1Description": "Reconnaissez les attaques de chaque bot pour esquiver et contrer en toute sécurité",
+        "step2Title": "Choisir la bonne arme",
+        "step2Description": "Adaptez les Spudguns, fusils à pompe et explosifs à chaque menace",
+        "step3Title": "Survivre aux raids",
+        "step3Description": "Séparez, kitez et canalisez les bots pour défendre votre ferme"
+      },
+      "featured": "À la une et essentiels",
+      "all": "Tous les guides sur les ennemis"
+    },
+    "mods": {
+      "title": "Mods de Scrap Mechanic",
+      "description": "Plans du Steam Workshop, mods de blocs et de pièces, mondes personnalisés, Custom Games et création de mods via Lua.",
+      "metaTitle": "Mods de Scrap Mechanic - Workshop, mondes personnalisés et modding",
+      "metaDescription": "Installez des plans du Workshop de Scrap Mechanic, des mods de pièces, des mondes personnalisés et des Custom Games, et apprenez les bases de la création de mods via Lua.",
+      "categoryLabel": "MODS & WORKSHOP",
+      "whatIs": "Que sont les mods ?",
+      "whatIsDescription": "Les mods ajoutent des plans, des blocs, des pièces, des mondes personnalisés créés par la communauté et des Custom Games complets à Scrap Mechanic via le Steam Workshop.",
+      "why": "Pourquoi utiliser des mods ?",
+      "whySteps": {
+        "step1Title": "Élargissez votre boîte à outils",
+        "step1Description": "Ajoutez de nouveaux blocs, pièces, armes et composants logiques",
+        "step2Title": "Jouez à du contenu personnalisé",
+        "step2Description": "Explorez les mondes de la communauté et des Custom Games complets",
+        "step3Title": "Restez compatible",
+        "step3Description": "Gérez les dépendances, la configuration multijoueur et les sauvegardes"
+      },
+      "featured": "À la une et essentiels",
+      "all": "Tous les guides sur les mods"
+    },
+    "updates": {
+      "title": "Mises à jour de Scrap Mechanic",
+      "description": "Calendrier des sorties officielles, changements de version et détails de la mise à jour 1.0 Drilling Thunder.",
+      "metaTitle": "Mises à jour de Scrap Mechanic - Actualités sur la 1.0 et Drilling Thunder",
+      "metaDescription": "Suivez le calendrier des sorties de Scrap Mechanic, y compris le lancement de la 1.0 et la mise à jour Drilling Thunder avec de nouveaux bots, des raids et des améliorations graphiques.",
+      "categoryLabel": "MISES À JOUR & ACTUALITÉS",
+      "whatIs": "Que sont les mises à jour ?",
+      "whatIsDescription": "Les mises à jour couvrent les annonces officielles, les changements de version et les dates de sortie, les guides de jeu stables ayant été déplacés vers les catégories de contenu correspondantes.",
+      "why": "Pourquoi suivre les mises à jour ?",
+      "whySteps": {
+        "step1Title": "Suivre les sorties",
+        "step1Description": "Suivez le calendrier de lancement de la 1.0 et de Drilling Thunder",
+        "step2Title": "Découvrir les nouvelles fonctionnalités",
+        "step2Description": "Découvrez de nouveaux bots, raids, armes et pièces de construction",
+        "step3Title": "Anticiper",
+        "step3Description": "Préparer les bases et les fermes pour les systèmes repensés"
+      },
+      "featured": "À la une et essentiels",
+      "all": "Tous les articles de mise à jour"
+    },
+    "guides": {
+      "title": "Guides Scrap Mechanic",
+      "description": "Guides pour débutants couvrant les commandes, les outils, les raccourcis clavier, les commandes de console et les erreurs courantes dans tous les modes de jeu.",
+      "metaTitle": "Guides Scrap Mechanic - Commandes, outils et commandes de console",
+      "metaDescription": "Apprenez les bases de Scrap Mechanic avec des guides sur les commandes, les outils, les raccourcis clavier et les commandes de console pour les modes Survie, Créatif et Défi.",
+      "categoryLabel": "GUIDES POUR DÉBUTANTS",
+      "whatIs": "Qu'est-ce que les guides ?",
+      "whatIsDescription": "Les guides couvrent les bases universelles dont chaque mécanicien a besoin : les déplacements et les commandes, le fonctionnement des outils, les raccourcis clavier et les commandes de console qui fonctionnent dans les modes Survie, Créatif et Défi.",
+      "why": "Pourquoi commencer par les guides ?",
+      "whySteps": {
+        "step1Title": "Maîtriser les commandes",
+        "step1Description": "Apprendre les déplacements, le lift, la bombe de peinture et l'outil de soudage",
+        "step2Title": "Apprendre les raccourcis",
+        "step2Description": "Utiliser les raccourcis clavier pour construire, faire pivoter et peindre plus rapidement",
+        "step3Title": "Utiliser les commandes de console",
+        "step3Description": "Faire apparaître des objets et ajuster les paramètres avec des commandes créatives"
+      },
+      "featured": "À la une et essentiels",
+      "all": "Tous les guides"
+    },
+    "farming": {
+      "title": "Agriculture dans Scrap Mechanic",
+      "description": "Guides sur l'agriculture couvrant les cultures, l'arrosage, les niveaux de raid, les stations d'emballage et les échanges avec le Marchand.",
+      "metaTitle": "Agriculture dans Scrap Mechanic - Cultures, raids et commerce",
+      "metaDescription": "Maîtrisez l'agriculture dans Scrap Mechanic grâce à des guides sur les cultures, l'arrosage, l'irrigation automatisée, les niveaux de raid, la défense des cultures et le commerce pour obtenir des caisses.",
+      "categoryLabel": "AGRICULTURE & RAIDS",
+      "whatIs": "Qu'est-ce que l'agriculture ?",
+      "whatIsDescription": "L'agriculture est l'économie du mode Survie où vous labourez le sol, plantez des graines, arrosez les cultures, récoltez les produits et commercez avec le Marchand, tout en défendant vos champs contre des raids de bots de plus en plus intenses.",
+      "why": "Pourquoi cultiver ?",
+      "whySteps": {
+        "step1Title": "Planter et arroser",
+        "step1Description": "Labourer le sol, planter des graines et mettre en place un arrosage manuel ou automatisé",
+        "step2Title": "Survivre aux raids",
+        "step2Description": "Comprendre les déclencheurs de raid, les vagues d'ennemis et les tactiques de défense des cultures",
+        "step3Title": "Échanger contre des caisses",
+        "step3Description": "Emballer et vendre les récoltes à la station d'emballage pour obtenir des caisses de valeur"
+      },
+      "featured": "À la une et essentiels",
+      "all": "Tous les guides d'agriculture"
+    }
+  }
+}
