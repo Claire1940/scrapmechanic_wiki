@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Scrap Mechanic Wiki - Survival, Builds, Recipes & Mods",
+      "description": "Explore Scrap Mechanic survival guides, vehicle builds, crafting recipes, Farmbot tips, maps, mods, and the latest 1.0 Drilling Thunder update news.",
+      "keywords": "Scrap Mechanic, survival, builds, crafting recipes, Farmbots, mods, Chapter 2, Drilling Thunder",
+      "ogTitle": "Scrap Mechanic Wiki - Survival, Builds, Recipes & Mods",
+      "ogDescription": "Explore Scrap Mechanic survival guides, vehicle builds, crafting recipes, Farmbot tips, maps, mods, and the latest 1.0 Drilling Thunder update news.",
+      "twitterTitle": "Scrap Mechanic Wiki - Survival, Builds, Recipes & Mods",
+      "twitterDescription": "Explore Scrap Mechanic survival guides, vehicle builds, crafting recipes, Farmbot tips, mods, and the latest 1.0 Drilling Thunder update."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
+    "badge": "Physics-Driven Survival Sandbox",
+    "title": "Scrap Mechanic Wiki",
+    "description": "Build vehicles and machines, explore a hostile farming planet, craft resources, defend against Farmbots, and discover everything coming in the 1.0 Drilling Thunder update.",
+    "getFreeCodesCTA": "View 1.0 Update",
     "playOnSteamCTA": "Play on Steam",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "Jul 24, 2026",
+        "label": "1.0 Release"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "91%",
+        "label": "Recent Positive Reviews"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "400+",
+        "label": "Building Parts"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "3",
+        "label": "Game Modes"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
+    "title": "Ready to Master Scrap Mechanic?",
+    "description": "Join the r/ScrapMechanic community for vehicle builds, mods, and survival tips, or jump straight into the game on Steam.",
+    "joinCommunity": "Join Reddit Community",
     "joinGame": "Play on Steam"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Scrap Mechanic Wiki",
+    "description": "Your complete resource hub for Scrap Mechanic survival, vehicle builds, crafting recipes, Farmbot guides, and the latest 1.0 Drilling Thunder update.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
+    "reddit": "Reddit",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
+    "youtube": "YouTube",
     "steamStore": "Steam Store",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Scrap Mechanic Wiki. Not affiliated with Axolot Games.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
