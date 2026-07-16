@@ -52,696 +52,661 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Scrap Mechanic Gameplay",
+    "description": "Build physics-driven vehicles and machines, survive on a hostile farming planet, craft resources, defend against Farmbots, and master Survival, Creative, and Challenge modes."
   },
   "tools": {
-    "title": "Lucid Blocks",
+    "title": "Scrap Mechanic",
     "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "subtitle": "Everything you need to survive, build, craft, farm, fight, and mod Scrap Mechanic",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "icon": "Rocket",
+        "title": "Scrap Mechanic 1.0 Update",
+        "description": "Release date, new bots, raid changes, and graphical upgrades"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "Compass",
+        "title": "Scrap Mechanic Beginner Guide",
+        "description": "First steps from the Master Battery to your first vehicle"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "Map",
+        "title": "Scrap Mechanic Survival Map",
+        "description": "Stations, the Trader, warehouses, ruins, and biomes"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "FlaskConical",
+        "title": "Scrap Mechanic Crafting Recipes",
+        "description": "Craftbots, materials, and Component Kit priorities"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "Car",
+        "title": "Scrap Mechanic Vehicles",
+        "description": "Stable cars, harvesters, boats, and logic machines"
       },
       {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
+        "icon": "Sprout",
+        "title": "Scrap Mechanic Farming",
+        "description": "Crops, watering, raid triggers, and base defense"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
+        "icon": "Swords",
+        "title": "Scrap Mechanic Bots",
+        "description": "Every bot's attacks, drops, and safest counters"
       },
       {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "Puzzle",
+        "title": "Scrap Mechanic Mods",
+        "description": "Blueprints, custom worlds, and Lua-powered mods"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+    "drillingThunderRelease": {
+      "eyebrow": "1.0 & Drilling Thunder",
+      "title": "Scrap Mechanic 1.0 Release Date and Drilling Thunder",
+      "intro": "Scrap Mechanic leaves Early Access on July 24, 2026 with the free 1.0 Drilling Thunder update. Here is the official release timeline and every confirmed feature, from underground drilling and redesigned terrain to new bots, reworked raids, weapons, building parts, and graphical upgrades.",
+      "timeline": [
+        {
+          "date": "Jul 24, 2026",
+          "title": "1.0 & Drilling Thunder Launch",
+          "description": "Scrap Mechanic 1.0 and the Drilling Thunder update release together, ending Early Access with the complete Survival, Creative, and Challenge experience."
+        },
+        {
+          "date": "Free Update",
+          "title": "Free for Every Owner",
+          "description": "Drilling Thunder is a free update for everyone who already owns Scrap Mechanic on Steam, with no separate purchase required."
+        },
+        {
+          "date": "Full Release",
+          "title": "End of Early Access",
+          "description": "Survival, Creative, and Challenge modes move out of Early Access into the finished 1.0 build with the redesigned progression."
+        }
+      ],
+      "features": [
+        {
+          "name": "Underground Drilling",
+          "description": "Drill into all-new underground layers packed with fresh resources, new mining threats, and deeper exploration routes."
+        },
+        {
+          "name": "Redesigned Terrain",
+          "description": "Overhauled world generation and biomes change how Survival maps look and play across every new save."
+        },
+        {
+          "name": "New Enemy Bots",
+          "description": "Face the flying Minerbot, explosive Red Totebot, jumping Yellow Totebot, and amphibious Blue Totebot."
+        },
+        {
+          "name": "Reworked Raids",
+          "description": "Raids now start immediately when triggered, with smarter enemy pathing and improved difficulty scaling."
+        },
+        {
+          "name": "New Weapons & Parts",
+          "description": "Expand your arsenal and toolbox with additional weapons and building parts for combat and engineering."
+        },
+        {
+          "name": "Graphical Upgrades",
+          "description": "Visual and lighting improvements bring the farming planet up to a modern, polished look."
+        }
+      ]
+    },
+    "beginnerGuide": {
+      "eyebrow": "Getting Started",
+      "title": "Scrap Mechanic Beginner Guide",
+      "intro": "Start Survival the right way. Follow the opening quests from finding the Master Battery to activating the crashed ship and building your first vehicle, while learning controls, inventory management, food, water, the Lift, and the Connection Tool.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Find the Master Battery",
+          "description": "Search the starting crash site and nearby points of interest for the Master Battery, the key that powers your first vehicle and base."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Activate the Crashed Ship",
+          "description": "Use the Master Battery on the crashed ship to reveal the Mechanic Station map marker and unlock your earliest crafting options."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Manage Controls, Food, and Water",
+          "description": "Master movement, the Lift, and inventory management. Keep food and water stocked so low health and hunger never catch you off guard."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Learn the Lift and Connection Tool",
+          "description": "Use the Lift to position parts and the Connection Tool to wire seats, engines, bearings, and switches into working machines."
+        },
+        {
+          "title": "Build Your First Vehicle",
+          "description": "Assemble a simple stable car with a seat, engine, wheels, and bearings, then test it at low power before adding more moving parts."
+        },
+        {
+          "title": "Set Early Resource Priorities",
+          "description": "Gather wood, stone, and metal first, then push toward a Mechanic Station and a Packing Station for steady progression."
         }
       ],
       "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
+        "Always carry a Sledgehammer, your main tool for breaking blocks and harvesting resources.",
+        "Keep the Lift nearby when building; it makes placing and rotating parts much easier.",
+        "Store spare Master Batteries safely, because losing power can strand your vehicle far from base.",
+        "Water and food drain over time, so stock up before long exploration or farming trips."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
+    "survivalMap": {
+      "eyebrow": "World Map",
+      "title": "Scrap Mechanic Survival Map and Locations",
+      "intro": "Navigate the Survival world with confidence. Learn where to find Mechanic Stations, Packing Stations, the Trader, warehouses, ruins, and resource biomes, plus a recommended exploration route and how generated worlds change in the 1.0 update.",
+      "locations": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "name": "Mechanic Station",
+          "type": "Crafting Hub",
+          "description": "A key early landmark that unlocks crafting benches and points you toward the next progression steps on the map."
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "name": "Packing Station",
+          "type": "Trade Post",
+          "description": "Pack harvested crops into crates for sale, turning steady farming output into a reliable income stream."
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "name": "The Trader",
+          "type": "Merchant",
+          "description": "A merchant who buys packed produce and sells useful supplies, seeds, and upgrades for your base."
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
+          "name": "Warehouses",
+          "type": "High-Risk Loot",
+          "description": "Large structures packed with loot, Component Kits, and dangerous Tapebots guarding every floor."
+        },
+        {
+          "name": "Ruins",
+          "type": "Exploration Site",
+          "description": "Scattered ruins hide resources, parts, and clues that make early exploration far more rewarding."
+        },
+        {
+          "name": "Resource Biomes",
+          "type": "Gathering Zone",
+          "description": "Forests, fields, mountains, and lakes each supply different wood, stone, metal, and food materials."
+        },
+        {
+          "name": "Underground Layers",
+          "type": "1.0 Addition",
+          "description": "Drilling Thunder adds drillable underground areas with fresh resources and new mining enemies below the surface."
         }
       ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
+      "routeSteps": [
+        "Start at the crash site and grab the Master Battery",
+        "Reach a Mechanic Station to unlock crafting",
+        "Open the Packing Station and meet the Trader",
+        "Push toward warehouses for Component Kits"
       ]
     },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
+    "craftingRecipes": {
+      "eyebrow": "Crafting Stations",
+      "title": "Scrap Mechanic Crafting Recipes and Craftbots",
+      "intro": "Organize your crafting around the Scrap Mechanic family of stations. Learn what each Craftbot produces, which materials matter, how station upgrades unlock new recipes, and which Component Kit priorities keep your progression moving.",
+      "stations": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "name": "Mini Craftbot",
+          "role": "Portable Starter",
+          "description": "A compact early crafting bot that handles your first basic recipes before you reach a full station."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "name": "Craftbot",
+          "role": "Core Station",
+          "description": "The main crafting hub that turns raw resources and Component Kits into blocks, parts, and tools."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "name": "Refinebot",
+          "role": "Refining",
+          "description": "Processes raw mined and harvested materials into refined inputs used by other stations."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "name": "Cookbot",
+          "role": "Cooking",
+          "description": "Combines crops and ingredients into cooked food that restores more hunger than raw produce."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
+          "name": "Dressbot",
+          "role": "Cosmetics",
+          "description": "Crafts clothing and cosmetic items so you can customize your character's look."
         }
       ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
+      "componentPriorities": [
+        "Upgrade the Craftbot first to unlock higher-tier recipes.",
+        "Prioritize Component Kits that unlock engines, bearings, and controllers.",
+        "Keep the Refinebot fed with a steady supply of raw material.",
+        "Build automated crafting chains once you have stable power and storage."
       ]
     },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
+    "vehiclesAndBuilding": {
+      "eyebrow": "Engineering Blueprints",
+      "title": "Scrap Mechanic Vehicles and Building Guide",
+      "intro": "Successful creations start with a rigid frame, correctly oriented bearings, and balanced weight. Use the Connection Tool to link seats, engines, controllers, switches, sensors, and powered joints, then test each system at low speed before increasing power or adding more moving parts.",
+      "blueprints": [
         {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
+          "name": "Stable Starter Car",
+          "bestFor": "Exploration, early resource runs, and learning vehicle controls",
+          "coreParts": [
+            "Driver's Seat",
+            "Gas Engine or Electric Engine",
+            "Four wheel bearings",
+            "Four wheels",
+            "Wide chassis",
+            "Optional suspension"
+          ],
+          "buildSteps": [
+            "Build a wide rectangular chassis with the seat near its center.",
+            "Mount the front wheels on steering bearings and the driven wheels on powered bearings.",
+            "Connect the seat to the steering bearings and the engine to the powered wheel bearings.",
+            "Use the Connection Tool arrows to correct wheels that rotate or steer the wrong way.",
+            "Begin with low engine power and increase it after the car can accelerate without flipping."
+          ],
+          "tuning": "Keep heavy engines, batteries, and storage close to the floor. A longer wheelbase and wider track improve stability, while suspension helps maintain wheel contact on uneven terrain.",
+          "failureChecks": [
+            "Reversed bearing direction",
+            "Narrow chassis with a high center of mass",
+            "Too much engine power",
+            "Wheels rubbing against the frame",
+            "Steering bearings connected to the engine"
           ]
         },
         {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
+          "name": "Off-Road Cargo Hauler",
+          "bestFor": "Transporting crates, fuel, crops, and building materials",
+          "coreParts": [
+            "Reinforced chassis",
+            "Large wheels",
+            "Suspension",
+            "Driver's Seat",
+            "Engine",
+            "Resource or storage containers"
+          ],
+          "buildSteps": [
+            "Place the cargo area between the front and rear axles instead of behind the vehicle.",
+            "Use suspension on all wheels and leave enough clearance for it to compress.",
+            "Spread containers evenly across the chassis and secure loose cargo inside walls or rails.",
+            "Power multiple wheels when the vehicle must climb hills or carry heavy loads."
+          ],
+          "tuning": "Test the hauler both empty and fully loaded. Reduce speed or widen the chassis when the vehicle becomes unstable after adding cargo.",
+          "failureChecks": [
+            "Cargo weight concentrated at the rear",
+            "Suspension blocked by surrounding parts",
+            "Insufficient ground clearance",
+            "Small wheels catching on terrain",
+            "Engine power too low for the loaded vehicle"
           ]
         },
         {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
+          "name": "Tree Harvester",
+          "bestFor": "Cutting trees and collecting wood more efficiently",
+          "coreParts": [
+            "Saw Blades",
+            "Powered bearings",
+            "Engine",
+            "Low front frame",
+            "Resource Collector",
+            "Protective cage"
+          ],
+          "buildSteps": [
+            "Mount one or more Saw Blades on powered bearings at the front of a stable vehicle.",
+            "Position the blades low enough to contact tree trunks without striking the ground.",
+            "Protect the driver's seat and wheels from falling logs.",
+            "Place a Resource Collector where refined wood pieces can be gathered.",
+            "Approach trees slowly so the blades stay in contact instead of pushing the vehicle sideways."
+          ],
+          "tuning": "Use moderate rotation speed and a heavy, wide chassis. Fast blades on a light vehicle often cause bouncing, steering loss, or rollovers.",
+          "failureChecks": [
+            "Saw rotation reversed",
+            "Blades mounted too high",
+            "Vehicle too light for the cutting force",
+            "No protection from falling trees",
+            "Collector positioned outside the material path"
           ]
         },
         {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
+          "name": "Rock Mining Rig",
+          "bestFor": "Breaking stone formations and gathering metal-bearing resources",
+          "coreParts": [
+            "Drill heads",
+            "Electric Engine or Gas Engine",
+            "Powered bearings",
+            "Pistons",
+            "Resource Collector",
+            "Heavy low chassis"
+          ],
+          "buildSteps": [
+            "Mount rotating drills on a reinforced front assembly.",
+            "Use pistons when the drill needs controlled forward pressure or height adjustment.",
+            "Connect drill bearings to an engine and piston controls to separate switches.",
+            "Place a Resource Collector close to the broken resource pieces.",
+            "Advance slowly and let the drill break the node instead of ramming it."
+          ],
+          "tuning": "A low-speed, high-control setup is easier to keep aligned. Counterweights or a wider rear section prevent the drill assembly from pulling the vehicle forward or sideways.",
+          "failureChecks": [
+            "Drills spinning away from the target",
+            "Pistons extending too quickly",
+            "Front assembly heavier than the rear",
+            "Collector blocked by drill parts",
+            "Chassis twisting under load"
           ]
         },
         {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
+          "name": "Vanilla Utility Boat",
+          "bestFor": "Crossing lakes and moving supplies between shorelines",
+          "coreParts": [
+            "Broad lightweight hull",
+            "Seat",
+            "Thrusters or another water-safe propulsion system",
+            "Steering bearings",
+            "Switches",
+            "Raised cargo platform"
+          ],
+          "buildSteps": [
+            "Build a wide symmetrical hull and test whether it floats level before adding machinery.",
+            "Place the seat, fuel, and cargo near the center of the hull.",
+            "Mount propulsion evenly on both sides or along the centerline.",
+            "Use steering bearings, independently controlled propulsion, or movable thrust to turn.",
+            "Keep important controls and cargo above the normal waterline."
+          ],
+          "tuning": "Add weight in small amounts and retest after every change. Uneven equipment placement causes listing, while narrow hulls become unstable during sharp turns.",
+          "failureChecks": [
+            "Uneven left-to-right weight",
+            "Propulsion mounted off-center",
+            "Heavy cargo placed at one end",
+            "Hull too narrow",
+            "Moving parts touching the hull"
+          ]
+        },
+        {
+          "name": "Controller and Logic Machine",
+          "bestFor": "Doors, elevators, folding vehicles, walkers, traps, and automated production",
+          "coreParts": [
+            "Controller",
+            "Bearings",
+            "Pistons",
+            "Logic Gates",
+            "Timers and Sensors",
+            "Buttons or switches"
+          ],
+          "buildSteps": [
+            "Use a Controller to assign target angles and movement sequences to connected bearings.",
+            "Use Pistons for straight extension, lifting, or clamping movements.",
+            "Connect Sensors to detect players, bots, crops, or moving objects.",
+            "Use Logic Gates to require multiple conditions or invert an input.",
+            "Add Timers when actions must happen in a fixed order instead of simultaneously.",
+            "Test one moving joint at a time before connecting the complete sequence."
+          ],
+          "tuning": "Slow controller speed and piston movement during testing. Leave clearance around every rotating or extending section and use separate switches for reset or emergency shutdown.",
+          "failureChecks": [
+            "Bearing rotation blocked by another part",
+            "Controller steps using the wrong rotation direction",
+            "Pistons exceeding available clearance",
+            "Logic loop repeatedly activating itself",
+            "Too many moving bodies colliding at once"
           ]
         }
       ]
     },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
+    "farmingAndRaid": {
+      "eyebrow": "Survival Farming",
+      "title": "Scrap Mechanic Farming and Raid Defense",
+      "intro": "Place Soil Bags on suitable ground, plant one seed in each plot, and supply water until the crop matures. Fertilizer accelerates growth, while every planted crop adds to the farm's raid value under the current Survival system.",
+      "stages": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "stage": "1. Start a Basic Farm",
+          "system": "Soil and planting",
+          "whatToDo": "Place Soil Bags on flat ground, plant one seed per plot, and water each crop with a Water Bucket. Apply Fertilizer when faster growth matters more than conserving supplies.",
+          "keyData": "Crops must be watered to progress. Fertilizer speeds growth but does not remove the need for water.",
+          "raidRisk": "Keep the first farm small while gathering building materials and weapons.",
+          "defenseUpgrade": "Use terrain, a simple wall, and a clear escape path."
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "stage": "2. Low-Value Crops",
+          "system": "Redbeet, Carrot, and Tomato",
+          "whatToDo": "Use these crops for early food, trading, and learning the raid system.",
+          "keyData": "Redbeet: 1 crop value; Carrot: 1 crop value; Tomato: 1 crop value.",
+          "raidRisk": "Ten of these crops reach the current minimum total crop value required to trigger a raid.",
+          "defenseUpgrade": "Build a perimeter that funnels bots toward one side of the farm."
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "stage": "3. Utility and Mid-Value Crops",
+          "system": "Potato, Cotton, Banana, Blueberry, and Orange",
+          "whatToDo": "Grow Potatoes for Spudgun ammunition, Cotton for crafting, and fruit for food or produce trading.",
+          "keyData": "Potato: 1.5 crop value; Cotton: 1.5; Banana: 2; Blueberry: 2; Orange: 2.",
+          "raidRisk": "A smaller number of these crops can trigger the same raid threshold as a larger basic farm.",
+          "defenseUpgrade": "Upgrade vulnerable walls and add elevated firing positions."
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "stage": "4. High-Value Crops",
+          "system": "Broccoli and Pineapple",
+          "whatToDo": "Use these late-game crops for advanced food and trading after obtaining their seeds through warehouse progression.",
+          "keyData": "Broccoli: 3 crop value; Pineapple: 3 crop value. Both count as high-value crops in the current raid system.",
+          "raidRisk": "Large high-value farms can introduce Tapebots and Farmbots into advanced raids.",
+          "defenseUpgrade": "Use strong materials, protected firing lanes, and multiple fallback barriers."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
+          "stage": "5. Current Raid Trigger",
+          "system": "Unauthorized farming",
+          "whatToDo": "Check the raid warning before leaving the farm and finish repairs before the attack begins.",
+          "keyData": "A raid is triggered when the local crop total reaches at least 10. The raid level is calculated when farming is detected, so harvesting crops afterward does not cancel the scheduled attack.",
+          "raidRisk": "Farming on consecutive days increases raid intensity. Breaking the streak lets the escalation reset.",
+          "defenseUpgrade": "Keep spare blocks, ammunition, food, and a bed away from the outer wall."
         },
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
+          "stage": "6. Automated Watering",
+          "system": "Water Container, Vacuum Pump, and Water Cannon",
+          "whatToDo": "Collect water into a Water Container and use mechanically aimed Water Cannons to cover rows of crops.",
+          "keyData": "Controllers, bearings, or pistons can move a Water Cannon across several rows. Timers and Logic Gates can coordinate repeated watering cycles.",
+          "raidRisk": "Automation makes larger farms practical, but larger planted areas create stronger raids.",
+          "defenseUpgrade": "Protect pumps, containers, controllers, and exposed pipes behind the main wall."
         },
         {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "stage": "7. Mechanical Defense",
+          "system": "Walls, traps, and gun platforms",
+          "whatToDo": "Create narrow entrances that force bots into predictable paths. Use rotating blades, crushers, traps, or mechanically aimed Spudguns to support manual combat.",
+          "keyData": "Bots attack crops and structures, so defense systems should sit outside the crop area with enough clearance to move.",
+          "raidRisk": "Complex traps can jam when bot bodies, loose blocks, or damaged parts enter the mechanism.",
+          "defenseUpgrade": "Add a manual override and keep a clear firing line from inside the base."
         },
         {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "stage": "8. Version 1.0 Farming and Raids",
+          "system": "UV Grow Beds and redesigned attacks",
+          "whatToDo": "Use electricity-powered UV Grow Beds to farm underground or on moving creations, then protect them as carefully as outdoor crops.",
+          "keyData": "The redesigned raid system starts attacks immediately after they are triggered, improves difficulty scaling, and gives enemies smarter path selection. Newer bot variants can also appear.",
+          "raidRisk": "Old defenses built around waiting until midnight or exploiting weak pathfinding require redesigning.",
+          "defenseUpgrade": "Create several defended routes, protect crops on all sides, and prepare weapons for melee, ranged, explosive, and flying bots."
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
+    "botsAndCombat": {
+      "eyebrow": "Enemy Database",
+      "title": "Scrap Mechanic Bots and Combat Guide",
+      "intro": "Do not fight every bot the same way. Melee bots can be separated and kited, Tapebots demand cover, Farmbots should be attacked from range, and the 1.0 variants introduce jumping, underwater, explosive, slowing, and flying threats.",
+      "bots": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "name": "Green Totebot",
+          "status": "Current Survival enemy",
+          "attackType": "Short-range melee strike",
+          "dangerousLocations": ["Fields", "Roads", "Ruins", "Early raids"],
+          "notableDrops": ["Circuit Board", "Occasional decorative Totebot Head"],
+          "recommendedWeapons": ["Sledgehammer", "Any Spudgun"],
+          "combatStrategy": "Let the Totebot approach, step away from its swing, and counter with the Sledgehammer. Avoid letting several Totebots surround you."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "name": "Haybot",
+          "status": "Current Survival enemy",
+          "attackType": "Pitchfork poke and heavier melee swing",
+          "dangerousLocations": ["Meadows", "Fields", "Ruins", "Farming raids"],
+          "notableDrops": ["Scrap Metal", "Possible Circuit Board", "Possible Component Kit"],
+          "recommendedWeapons": ["Sledgehammer for isolated targets", "Spudgun for groups"],
+          "combatStrategy": "Walk backward while attacking and separate Haybots before committing to melee. Use water, terrain, or obstacles to interrupt groups and create room."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "name": "Blue and Red Tapebots",
+          "status": "Current Survival enemies",
+          "attackType": "Rapid tape projectiles or slower explosive projectiles",
+          "dangerousLocations": ["Warehouse exteriors", "Warehouse floors", "Advanced raids"],
+          "notableDrops": ["Possible Battery", "Possible Component Kit"],
+          "recommendedWeapons": ["Spudgun", "Spud Shotgun", "Spudling Gun"],
+          "combatStrategy": "Fight from cover and expose only enough of your position to fire. Never rush through warehouse tape without checking the room, and move away from Red Tapebot explosive shots."
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "name": "Farmbot",
+          "status": "Current Survival heavy enemy",
+          "attackType": "Scythe attacks, kicks, and pesticide-based area damage",
+          "dangerousLocations": ["Open-world patrol areas", "Warehouse surroundings", "High-level farming raids"],
+          "notableDrops": ["Warehouse Key in current Survival", "Component Kits", "Circuit Boards"],
+          "recommendedWeapons": ["Spudgun", "Spud Shotgun", "Spudling Gun"],
+          "combatStrategy": "Maintain range and use large obstacles to block charges. Do not stay inside pesticide clouds or attempt extended Sledgehammer combat against a healthy Farmbot."
         },
         {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "name": "Minerbot",
+          "status": "Version 1.0 enemy",
+          "attackType": "Flying rock spray followed by a dangerous crash when destroyed",
+          "dangerousLocations": ["Underground mines", "Underground stations", "Large groups in open caverns"],
+          "notableDrops": ["No unique loot listed in the official bot reveal"],
+          "recommendedWeapons": ["Spudgun", "Rapid ranged fire"],
+          "combatStrategy": "Keep moving while tracking the bot in the air. Shoot from an angle that prevents the damaged Minerbot from crashing directly onto you."
+        },
+        {
+          "name": "Yellow Totebot",
+          "status": "Version 1.0 enemy",
+          "attackType": "Jumping stomp that can smash through floors and ceilings",
+          "dangerousLocations": ["Multilevel bases", "Roofs", "Raised crop platforms", "Redesigned raids"],
+          "notableDrops": ["No unique loot listed in the official bot reveal"],
+          "recommendedWeapons": ["Spudgun", "Spud Shotgun"],
+          "combatStrategy": "Do not rely on a single floor or low roof for protection. Move sideways when it jumps and keep important controls away from exposed ceilings."
+        },
+        {
+          "name": "Blue Totebot",
+          "status": "Version 1.0 enemy",
+          "attackType": "Fast underwater torpedo attack and rapid pursuit on land",
+          "dangerousLocations": ["Lakes", "Shorelines", "Water bases", "Amphibious routes"],
+          "notableDrops": ["No unique loot listed in the official bot reveal"],
+          "recommendedWeapons": ["Spudgun", "Fast vehicle escape"],
+          "combatStrategy": "Do not assume water is a safe retreat. Leave the water quickly, gain distance, and fight from stable ground where its approach is easier to track."
+        },
+        {
+          "name": "Red Totebot",
+          "status": "Version 1.0 enemy",
+          "attackType": "Explosive suicide charge that can ignite nearby material",
+          "dangerousLocations": ["Mine-related areas", "Surface encounters", "Raid groups", "Flammable bases"],
+          "notableDrops": ["No unique loot listed in the official bot reveal"],
+          "recommendedWeapons": ["Spudgun", "Long-range explosives"],
+          "combatStrategy": "Shoot it before it reaches walls, vehicles, or crops. Separate it from other bots so its explosion damages enemies instead of opening a path into your base."
+        },
+        {
+          "name": "Green and Yellow Tapebots",
+          "status": "Version 1.0 enemy variants",
+          "attackType": "Weaponized bubble plastic or damaging ink that slows movement",
+          "dangerousLocations": ["New facilities", "Storage-themed areas", "Redesigned raids", "Groups covering several angles"],
+          "notableDrops": ["No unique loot listed in the official bot reveal"],
+          "recommendedWeapons": ["Spudgun", "Cornade against clustered bots"],
+          "combatStrategy": "Prioritize Yellow Tapebots before their slowing ink limits your movement. Green Tapebots are less threatening alone but become dangerous when several continuously pressure the same position."
+        },
+        {
+          "name": "Trashbot",
+          "status": "Updated Version 1.0 enemy",
+          "attackType": "Heavy aggressive combat behavior",
+          "dangerousLocations": ["Expanded Survival locations", "Confined industrial areas", "Late-game encounters"],
+          "notableDrops": ["No unique loot listed in the latest official update"],
+          "recommendedWeapons": ["Spudling Gun", "Spud Shotgun", "Cornade"],
+          "combatStrategy": "Use space, cover, and sustained ranged damage. Avoid entering a confined room without a retreat route or enough ammunition to finish the encounter."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
+    "modsAndWorkshop": {
+      "eyebrow": "Workshop and Modding",
+      "title": "Scrap Mechanic Mods and Steam Workshop",
+      "intro": "Steam Workshop content is installed by subscribing to an item while signed into Steam. Scrap Mechanic supports ordinary blueprints, Blocks and Parts mods, custom Creative worlds, and complete Custom Games with their own scripts, tools, enemies, terrain, and progression.",
+      "workshop": [
         {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
+          "name": "Workshop Blueprints",
+          "category": "Player-built creations",
+          "whatItAdds": "Vehicles, machines, buildings, logic systems, and decorative creations saved by other players.",
+          "installation": [
+            "Open the Scrap Mechanic Steam Workshop.",
+            "Select a blueprint and press Subscribe.",
+            "Launch the game after Steam finishes downloading the item.",
+            "Open the Lift's creation browser in a mode that supports blueprint loading.",
+            "Choose the subscribed creation and place it on the Lift."
+          ],
+          "compatibility": "A blueprint that uses modded blocks requires every listed Blocks and Parts dependency.",
+          "precautions": "Check the blueprint's size and required mods before loading it into an important world. Very large or highly complex creations can reduce performance."
         },
         {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
+          "name": "Blocks and Parts Mods",
+          "category": "Building content",
+          "whatItAdds": "New blocks, engines, wheels, interactive parts, logic components, tools, weapons, effects, and decorative pieces.",
+          "installation": [
+            "Subscribe to the main mod and every dependency shown on its Workshop page.",
+            "Enable the required mods when creating or loading a compatible modded world.",
+            "Restart the game when newly subscribed content does not appear immediately."
+          ],
+          "compatibility": "Multiplayer participants must have access to the same enabled content. Removing a required mod can leave missing parts or stop a creation from loading correctly.",
+          "precautions": "Keep a list of required mods for long-term worlds and avoid unsubscribing from dependencies while those worlds still use their parts."
         },
         {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
+          "name": "Custom Worlds",
+          "category": "Creative environments",
+          "whatItAdds": "Community-built terrain, roads, structures, tiles, challenges, and exploration spaces.",
+          "installation": [
+            "Subscribe to the world through the Workshop's Worlds category.",
+            "Open the game's world or Creative selection screen.",
+            "Select the subscribed custom world and review its required mods.",
+            "Create a separate save for the first test."
+          ],
+          "compatibility": "Custom Worlds can depend on terrain assets, Blocks and Parts mods, or additional Workshop packages.",
+          "precautions": "Do not overwrite an established save when testing a newly downloaded world. Keep the original world and test copy separate."
         },
         {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "name": "Custom Games",
+          "category": "Complete game modes",
+          "whatItAdds": "Modded Survival experiences or standalone games with custom scripts, quests, tools, enemies, terrain, and rules.",
+          "installation": [
+            "Subscribe to the Custom Game and its dependencies.",
+            "Open the Game Mode selection screen.",
+            "Select Custom Games in the upper-right area.",
+            "Choose the downloaded game and create a new save."
+          ],
+          "compatibility": "The host selects the Custom Game and controls the session. All players should finish downloading the same dependencies before joining.",
+          "precautions": "Use a dedicated save for each Custom Game because its scripts, inventory, and world rules may not match standard Survival or Creative mode."
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "name": "Multiplayer Mod Setup",
+          "category": "Co-op compatibility",
+          "whatItAdds": "Shared access to modded worlds, creations, and complete Custom Games.",
+          "installation": [
+            "Let the host choose the world and enabled mod set.",
+            "Share the Workshop collection or dependency list with every player.",
+            "Wait for Steam to finish all downloads before joining.",
+            "Restart Steam or Scrap Mechanic when a dependency remains unavailable."
+          ],
+          "compatibility": "Different mod versions, missing dependencies, or removed Workshop items can prevent joining or cause missing content.",
+          "precautions": "Do not change the enabled mod list during an active campaign unless the mod author provides migration instructions."
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
-        {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "name": "Save and Update Safety",
+          "category": "World protection",
+          "whatItAdds": "A safer process for testing updates, experimental branches, and large mod collections.",
+          "installation": [
+            "Close Scrap Mechanic before copying save files.",
+            "Back up the Scrap Mechanic user save directory before major game or mod updates.",
+            "Test updated content in a copied world.",
+            "Keep stable-version and test-branch saves separate."
+          ],
+          "compatibility": "Content created with a newer Mod Tool, test branch, or incompatible game version may not load in an older version.",
+          "precautions": "Never open an important stable save on an experimental branch without a backup. Windows saves and automatic backups are stored under the Scrap Mechanic folder inside AppData/Roaming/Axolot Games."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
-        },
-        {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
-        },
-        {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "name": "Creating Lua-Powered Mods",
+          "category": "Mod development",
+          "whatItAdds": "Custom parts, tools, weapons, NPCs, projectiles, melee attacks, harvestables, effects, game logic, worlds, and procedural terrain.",
+          "installation": [
+            "Install and open the official Scrap Mechanic Mod Tool through Steam.",
+            "Create the appropriate Blocks and Parts, World, or Custom Game project.",
+            "Define content through JSON files and use Lua scripts for behavior.",
+            "Start Scrap Mechanic with the -dev launch option while scripting to access the debug console and script hot reload.",
+            "Test client and server behavior before publishing the project to Workshop."
+          ],
+          "compatibility": "Scrap Mechanic uses Lua 5.1 and separates server-side simulation from client-side visuals, audio, and input. Workshop dependencies can be declared through the Mod Tool.",
+          "precautions": "Use unique identifiers, validate JSON, avoid unrestricted assumptions about client access, and test multiplayer networking before releasing an update."
         }
       ]
     }
@@ -749,31 +714,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Scrap Mechanic",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is Scrap Mechanic?",
+        "answer": "Scrap Mechanic is a physics-driven survival sandbox by Axolot Games where you build vehicles and machines, explore a farming planet, craft resources, and defend against Farmbots. It is available on Steam for Windows."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "When does Scrap Mechanic 1.0 release?",
+        "answer": "Scrap Mechanic 1.0 and the Drilling Thunder update release on July 24, 2026 as a free update that ends Early Access for every existing owner."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Is Scrap Mechanic multiplayer?",
+        "answer": "Yes. Scrap Mechanic supports cooperative play for up to several players across Survival, Creative, and Challenge modes, so you can build, farm, and explore together."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "What are the game modes in Scrap Mechanic?",
+        "answer": "Scrap Mechanic has three main modes: Survival, Creative, and Challenge. Creative Mode includes more than 400 building parts for unrestricted engineering."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "Where can I play Scrap Mechanic?",
+        "answer": "Scrap Mechanic is available on Steam for Windows. You can buy it from the official Scrap Mechanic Steam store page."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "How do raids work in Scrap Mechanic?",
+        "answer": "In Scrap Mechanic Survival, farming raises your farm's crop value. Once it reaches the threshold, a raid triggers and enemies attack your farm, so walls, traps, and weapons are essential."
       }
     ]
   },
@@ -801,125 +766,125 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "survival": {
+      "title": "Scrap Mechanic Survival",
+      "description": "Survival mode guides covering the Master Battery, crashed ship, exploration routes, farming, raids, and base defense.",
+      "metaTitle": "Scrap Mechanic Survival - Quests, Map, and Raid Defense",
+      "metaDescription": "Complete Scrap Mechanic Survival guides covering the opening quests, survival map locations, farming, raids, and base defense strategies.",
+      "categoryLabel": "SURVIVAL MODE",
+      "whatIs": "What is Survival?",
+      "whatIsDescription": "Survival is the core Scrap Mechanic mode where you gather resources, build vehicles, farm crops, defend against raids, and push toward warehouses and endgame progression.",
+      "why": "Why play Survival?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Follow the Opening Quests",
+        "step1Description": "Track down the Master Battery and activate the crashed ship to begin progression",
+        "step2Title": "Explore the World",
+        "step2Description": "Find Mechanic Stations, Packing Stations, the Trader, and warehouses",
+        "step3Title": "Defend Your Farm",
+        "step3Description": "Build walls, traps, and turrets to survive escalating bot raids"
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Survival Guides"
+    },
+    "builds": {
+      "title": "Scrap Mechanic Builds",
+      "description": "Vehicle and machine blueprints for stable cars, harvesters, mining rigs, boats, and automated logic systems.",
+      "metaTitle": "Scrap Mechanic Builds - Vehicle and Machine Blueprints",
+      "metaDescription": "Learn how to build stable Scrap Mechanic vehicles and machines, including cars, harvesters, mining rigs, boats, and controller-driven logic systems.",
+      "categoryLabel": "VEHICLE BUILDS",
+      "whatIs": "What are Builds?",
+      "whatIsDescription": "Builds are player-engineered vehicles and machines assembled from chassis, bearings, engines, wheels, controllers, and logic parts using the Connection Tool.",
+      "why": "Why learn building?",
+      "whySteps": {
+        "step1Title": "Master Connections",
+        "step1Description": "Link seats, engines, bearings, and switches into working machines",
+        "step2Title": "Balance Weight",
+        "step2Description": "Keep heavy parts low and the chassis wide for stable handling",
+        "step3Title": "Automate with Logic",
+        "step3Description": "Use controllers, sensors, timers, and logic gates for advanced creations"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Build Guides"
     },
     "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
+      "title": "Scrap Mechanic Crafting",
+      "description": "Crafting recipes, Craftbot stations, materials, and Component Kit priorities for efficient production.",
+      "metaTitle": "Scrap Mechanic Crafting - Recipes, Craftbots, and Component Kits",
+      "metaDescription": "Master Scrap Mechanic crafting with recipes for the Craftbot, Refinebot, Cookbot, and Dressbot, plus Component Kit priorities and automated chains.",
       "categoryLabel": "CRAFTING SYSTEM",
       "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+      "whatIsDescription": "Crafting in Scrap Mechanic turns raw resources and Component Kits into blocks, parts, tools, food, and cosmetics through the Craftbot, Refinebot, Cookbot, and Dressbot.",
+      "why": "Why plan crafting?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Upgrade Stations",
+        "step1Description": "Upgrade the Craftbot first to unlock higher-tier recipes",
+        "step2Title": "Prioritize Kits",
+        "step2Description": "Spend Component Kits on engines, bearings, and controllers",
+        "step3Title": "Automate Chains",
+        "step3Description": "Build automated crafting chains once you have stable power"
       },
       "featured": "Featured & Essential",
       "all": "All Crafting Guides"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "enemies": {
+      "title": "Scrap Mechanic Enemies",
+      "description": "Enemy bot database with attack patterns, habitats, drops, recommended weapons, and combat strategies.",
+      "metaTitle": "Scrap Mechanic Enemies - Bot Database and Combat Guide",
+      "metaDescription": "Compare every Scrap Mechanic bot, including Totebots, Haybots, Tapebots, Farmbots, and the new 1.0 variants, with attacks, drops, and counters.",
+      "categoryLabel": "ENEMY DATABASE",
+      "whatIs": "What are Enemies?",
+      "whatIsDescription": "Enemies are the hostile bots that roam the world and attack during raids, each with unique attacks, habitats, drops, and safest counters.",
+      "why": "Why study enemies?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Learn Attack Patterns",
+        "step1Description": "Recognize each bot's attacks to dodge and counter safely",
+        "step2Title": "Pick the Right Weapon",
+        "step2Description": "Match Spudguns, shotguns, and explosives to each threat",
+        "step3Title": "Survive Raids",
+        "step3Description": "Separate, kite, and funnel bots to defend your farm"
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Enemy Guides"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "mods": {
+      "title": "Scrap Mechanic Mods",
+      "description": "Steam Workshop blueprints, Blocks and Parts mods, custom worlds, Custom Games, and Lua-powered mod creation.",
+      "metaTitle": "Scrap Mechanic Mods - Workshop, Custom Worlds, and Modding",
+      "metaDescription": "Install Scrap Mechanic Workshop blueprints, parts mods, custom worlds, and Custom Games, and learn the basics of creating Lua-powered mods.",
+      "categoryLabel": "MODS & WORKSHOP",
+      "whatIs": "What are Mods?",
+      "whatIsDescription": "Mods add community-built blueprints, blocks, parts, custom worlds, and complete Custom Games to Scrap Mechanic through the Steam Workshop.",
+      "why": "Why use mods?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Expand Your Toolkit",
+        "step1Description": "Add new blocks, parts, weapons, and logic components",
+        "step2Title": "Play Custom Content",
+        "step2Description": "Explore community worlds and complete Custom Games",
+        "step3Title": "Stay Compatible",
+        "step3Description": "Manage dependencies, multiplayer setup, and save backups"
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Mods Guides"
     },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "updates": {
+      "title": "Scrap Mechanic Updates",
+      "description": "Official release timeline, version changes, and the 1.0 Drilling Thunder update details.",
+      "metaTitle": "Scrap Mechanic Updates - 1.0 and Drilling Thunder News",
+      "metaDescription": "Track the Scrap Mechanic release timeline, including the 1.0 launch and Drilling Thunder update with new bots, raids, and graphical upgrades.",
+      "categoryLabel": "UPDATES & NEWS",
+      "whatIs": "What are Updates?",
+      "whatIsDescription": "Updates cover official announcements, version changes, and release dates, with stable gameplay guides moved back into the relevant content categories.",
+      "why": "Why follow updates?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Track the Release",
+        "step1Description": "Follow the 1.0 and Drilling Thunder launch schedule",
+        "step2Title": "Learn New Features",
+        "step2Description": "Discover new bots, raids, weapons, and building parts",
+        "step3Title": "Plan Ahead",
+        "step3Description": "Prepare bases and farms for the redesigned systems"
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
-    },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
-      "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Update Articles"
     }
   }
 }

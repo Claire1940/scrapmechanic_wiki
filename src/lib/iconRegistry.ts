@@ -38,6 +38,16 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Clock: LucideIcons.Clock,
   X: LucideIcons.X,
 
+  // Scrap Mechanic 主题模块导航图标（Tools Grid 8 卡，每张不同图标）
+  Rocket: LucideIcons.Rocket,
+  Compass: LucideIcons.Compass,
+  Map: LucideIcons.Map,
+  FlaskConical: LucideIcons.FlaskConical,
+  Car: LucideIcons.Car,
+  Sprout: LucideIcons.Sprout,
+  Swords: LucideIcons.Swords,
+  Puzzle: LucideIcons.Puzzle,
+
   // 默认回退图标
   HelpCircle: LucideIcons.HelpCircle,
 }
