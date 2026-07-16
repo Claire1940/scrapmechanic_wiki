@@ -10,14 +10,7 @@
       "twitterDescription": "Explore Scrap Mechanic survival guides, vehicle builds, crafting recipes, Farmbot tips, mods, and the latest 1.0 Drilling Thunder update."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
