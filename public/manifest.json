@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Scrap Mechanic Wiki - Survival, Builds, Recipes & Mods",
+  "short_name": "Scrap Mechanic",
+  "description": "Explore Scrap Mechanic survival guides, vehicle builds, crafting recipes, Farmbot tips, maps, mods, and the latest 1.0 Drilling Thunder update news.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#ff7700",
+  "background_color": "#faf8f5",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
